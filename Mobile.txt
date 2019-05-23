@@ -1,6 +1,6 @@
 ! Title: 移动广告过滤补充规则
-! Version: 2019.05.23
 ! Description: 过滤效果覆盖了大多数移动站点，可作为移动设备去广告的主力规则，整合自Qiumiaojingxi和YanFung的规则。
+! Version: 2019.05.23
 ! Author: loveqqzj
 ! Homepage: https://raw.githubusercontent.com/loveqqzj/Ad-Filters/master/Mobile.txt
 !----------------------------------
