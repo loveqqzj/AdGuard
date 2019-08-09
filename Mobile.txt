@@ -1,5 +1,5 @@
 !Title:移动广告过滤补充规则
-!Description:整合自Qiumiaojingxi和YanFung的规则。
+!Description:整合了Qiumiaojingxi和YanFung的规则，添加了部分自用的规则。
 !Version:2019.08.09
 !----------------------------------
 ###_embed_v3_dc
