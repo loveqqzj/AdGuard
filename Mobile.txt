@@ -3,7 +3,7 @@
 !Homepage:https://github.com/loveqqzj/Ad-Filters
 !Version:2019.11.1
 !----------------------------------
-## .YWBDAD
+##.YWBDAD
 ###_embed_v3_dc
 ###a_ad
 ###ad
