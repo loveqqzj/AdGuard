@@ -1,9 +1,9 @@
 !Title:移动广告过滤补充规则
 !Description:整合了Qiumiaojingxi和YanFung的规则，添加了部分自用的规则。
 !Homepage:https://github.com/loveqqzj/Ad-Filters
-!Version:2019.11.1
+!Version:2019.11.28
 !----------------------------------
-##.YWBDAD
+## .YWBDAD
 ###_embed_v3_dc
 ###a_ad
 ###ad
@@ -41,7 +41,9 @@
 ###bottomads
 ###callVideoAppHeader
 ###container &gt; #pic_container
+###container > #pic_container
 ###container.container &gt; a.item
+###container.container > a.item
 ###container.container>a.item
 ###container>#pic_container
 ###db_ad
@@ -72,6 +74,7 @@
 ###rightad
 ###rightCouple
 ###SOHU_MAIN &gt; .module-cmt-float-bar
+###SOHU_MAIN > .module-cmt-float-bar
 ###SOHU_MAIN>.module-cmt-float-bar
 ###sponsorAdDiv
 ###textggs
@@ -165,6 +168,7 @@
 ##.bdsharebuttonbox
 ##.bm.a_c
 ##.bottom_ad_download
+##.bottomad
 ##.bottomAd
 ##.bottomAD
 ##.bottomads
@@ -198,6 +202,7 @@
 ##.ec_wise_ad
 ##.ec-ad
 ##.error &gt; #qqs
+##.error > #qqs
 ##.error>#qqs
 ##.floatad
 ##.float-adv
@@ -319,6 +324,7 @@
 ##A[href*=".com/?Agent="]
 ##a[href*=".com/?Extend="]
 ##a[href*=".com/?p="] &gt; img[src$=".gif"]
+##a[href*=".com/?p="] > img[src$=".gif"]
 ##a[href*=".com/?p="]>img[src$=".gif"]
 ##a[href*=".com/Register/?a="]
 ##a[href*=".com/Register?a="]
@@ -335,6 +341,7 @@
 ##a[href*="/zl?uid="]
 ##a[href*="ads.trafficjunky.net"]
 ##a[href*="http"] &gt; img[src$=".gif"][width="100%"]
+##a[href*="http"] > img[src$=".gif"][width="100%"]
 ##a[href*="http"]>img[src$=".gif"][width="100%"]
 ##a[href*="mob28.fengxuhui.com"]
 ##a[href*="mob288.hscdq.com"]
@@ -343,6 +350,7 @@
 ##a[href*="www.crc6789.com"]
 ##a[href*="www.hfcp20.com"]
 ##a[href] &gt; img[style][src*="/upload.cc"]
+##a[href] > img[style][src*="/upload.cc"]
 ##a[href]>img[style][src*="/upload.cc"]
 ##a[href^="/mo/q/hbOpenApp/activity?fr=frs"]
 ##a[href^="http://dol.tianya.cn/c"]
@@ -405,8 +413,10 @@
 ##div[id*="downapp"]
 ##div[id*="downApp"]
 ##div[id][style="width: 100%;"] &gt; iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&amp;"][width][height][frameborder="0"]
+##div[id][style="width: 100%;"] > iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[id][style="width:100%;"]>iframe[scrolling="no"][src^="http"][src*="?"][src*="="][src*="&"][width][height][frameborder="0"]
 ##div[id^="_"] &gt; iframe[scrolling="no"][src^="http"][width][height][frameborder="0"]
+##div[id^="_"] > iframe[scrolling="no"][src^="http"][width][height][frameborder="0"]
 ##div[id^="_"]>iframe[scrolling="no"][src^="http"][width][height][frameborder="0"]
 ##div[id^="bottom-gg"]
 ##div[id^="div-gpt-ad"]
@@ -740,6 +750,7 @@ _yad_jsonp_
 52shouyou.com.cn
 550tg.com
 56.com##[class^="app-"] &gt; .banner-container
+56.com##[class^="app-"] > .banner-container
 56.com##[class^="app-"]>.banner-container
 5646.cn
 58.com###app_pop_mask
@@ -1048,6 +1059,7 @@ bbs.gpsuu.com##.radio.mb10
 bbs.gpsuu.com##.tac.mb5
 bbs.gpsuu.com##.textMes
 bbs.gpsuu.com##.wrap &gt; .mb5.tac
+bbs.gpsuu.com##.wrap > .mb5.tac
 bbs.gpsuu.com##.wrap>.mb5.tac
 bbs.gpsuu.com##a[style="cursor:pointer;"]
 bbs.gpsuu.com##div[style="margin:3pxauto;width:960px;height:65px;"]
@@ -1159,6 +1171,7 @@ cnbeta.com###taboola-below-article-thumbnails-m
 cnbeta.com##.cbimage-fixed
 cnbeta.com##a[href^="http://click.aliyun.com/"]
 cnbeta.com##div[data-role="content"] &gt; div[style^="text-align:"]
+cnbeta.com##div[data-role="content"] > div[style^="text-align:"]
 cnbeta.com##div[data-role="content"]>div[style^="text-align:"]
 cnbetacdn.com/frontend/vipics/yijian
 cnmo.com##ul[class="entrance"]
@@ -1262,6 +1275,7 @@ dupinpu.com
 dushu.baidu.com##.openBox-shareEntry
 dxmci.com
 dxy.cn##.page-wrap &gt; .wrap
+dxy.cn##.page-wrap > .wrap
 dxy.cn##.page-wrap>.wrap
 dy10000.com/ppt.jpg
 dydyhg.com
@@ -1432,6 +1446,7 @@ huajiao.com##.follow
 huajiao.com##.open_huajiao
 huajiao.com##.tool-bar-open
 huanmusic.com##.am-content &gt; .am-g
+huanmusic.com##.am-content > .am-g
 huanmusic.com##.am-content>.am-g
 huanqiu.com##.fubiao-dialog
 huanqiu.com/resource/js/base
@@ -1442,6 +1457,7 @@ hupu.com###J_live_container
 hupu.com##.m-app
 hupu.com##.m-app-sdadawf
 hupu.com##section.money-box &gt; section.bottom &gt; img.money-img
+hupu.com##section.money-box > section.bottom > img.money-img
 hupu.com##section.money-box>section.bottom>img.money-img
 hutao1.cn
 huxiu.com###related-article-wrap
@@ -1557,10 +1573,12 @@ jianshu.com##.header-download
 jianshu.com##.note-comment-above-ad-wrap
 jianshu.com##.recommend-ad.recommend-wrap
 jianshu.com##.recommend-note &gt; div &gt; .stats-comp &gt; div &gt;[id]
+jianshu.com##.recommend-note > div > .stats-comp > div >[id]
 jianshu.com##.recommend-note>div>.stats-comp>div>[id]
 jianzhousc.com
 jiaoben.hotkd.com
 jiaoshouwang.com###wrapper &gt; div&gt; a &gt; img
+jiaoshouwang.com###wrapper > div> a > img
 jiaoshouwang.com###wrapper>div>a>img
 jiathis.com
 jiemian.com##.header-inner
@@ -1620,6 +1638,7 @@ kkcaicai.com
 kkdsdlc.com
 klm123.com###download
 klm123.com##.swiper-container-horizontal.header-swiper &gt; .swiper-wrapper
+klm123.com##.swiper-container-horizontal.header-swiper > .swiper-wrapper
 klm123.com##.swiper-container-horizontal.header-swiper>.swiper-wrapper
 klm123.com##div[id="ignoreMe"][style="height: .96rem;background: #fff;"]
 klm123.com##div[id="ignoreMe"][style="height:.96rem;background:#fff;"]
@@ -1655,6 +1674,7 @@ layyi.com
 ldlwdsx.com
 le.com###j-leappMore
 le.com###j-recommend &gt; .animate1.column_box
+le.com###j-recommend > .animate1.column_box
 le.com###j-recommend>.animate1.column_box
 le.com###j-zhoubian
 le.com##.addDesktop
@@ -1733,6 +1753,7 @@ mgid.com
 mgsue.cn
 mgtv.com##.add-desktop
 mgtv.com##.bottom-gap.v5-area-bar &gt; .bd
+mgtv.com##.bottom-gap.v5-area-bar > .bd
 mgtv.com##.bottom-gap.v5-area-bar>.bd
 mgtv.com##.ft
 mgtv.com##.on.mg-app-open
@@ -1759,6 +1780,7 @@ mp4ba.com*/js/head.js
 mqcwr.cn
 msite.baidu.com
 mtime.cn###app &gt;div &gt;div._1QFIS
+mtime.cn###app >div >div._1QFIS
 mtime.cn###app>div>div._1QFIS
 mtime.cn###clientDownload
 mubite.cn
@@ -1798,6 +1820,7 @@ news.china.com/xml/important_news_day.json?
 news.ifeng.com##[class^=content-]&gt;[class^=link-]
 news.ifeng.com##[class^=content-]>[class^=link-]
 news.sina.cn##[class="s_card j_tianyi"]&gt;div[class][id]
+news.sina.cn##[class="s_card j_tianyi"]>div[class][id]
 news.sina.cn##[class="s_cardj_tianyi"]>div[class][id]
 newsmth.net###midadv_slider
 newsmth.net##img[src^="//images.newsmth.net/nForum/files/adv/"]
@@ -2122,11 +2145,13 @@ thepaper.cn##.app_down4
 thepaper.cn##.news_open_app
 thumb.1010pic.com/05wang/images/*.png
 tianji520.cn
+tianjin4.com
 tiantianedu.net
 tianxiazhenji.com
 tianya.cn##.rec-app
 tiaopimiao.net
 tieba.baidu.com###pb_reply_postor_wrap &gt; .daoliu-content-wrap
+tieba.baidu.com###pb_reply_postor_wrap > .daoliu-content-wrap
 tieba.baidu.com###pb_reply_postor_wrap>.daoliu-content-wrap
 tieba.baidu.com##.appBottomPromote
 tieba.baidu.com##.appPromote
@@ -2273,6 +2298,7 @@ wapbaike.baidu.com###relative_shop_flow
 wapbaike.baidu.com##.BK-after-content-wrapper>ul
 wapbaike.baidu.com##[target="_blank"]
 wapbaike.baidu.com##ul[class][id] &gt; li
+wapbaike.baidu.com##ul[class][id] > li
 wapbaike.baidu.com##ul[class][id]>li
 wasu.cn##.appdown
 wasu.cn##.ws_more_app
@@ -2440,6 +2466,7 @@ yuedu.163.com##img[src*="/yunyuedu.png"]
 yuewz.com###add_desktop
 yunsennet.com
 yxflz.com##.c_box &gt; div[style]
+yxflz.com##.c_box > div[style]
 yxflz.com##.c_box>div[style]
 yy.com###baseText-main
 yy.com###footer
