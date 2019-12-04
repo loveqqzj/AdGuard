@@ -39,7 +39,6 @@
 ###bohad
 ###bottomAd
 ###bottomads
-###callVideoAppHeader
 ###container &gt; #pic_container
 ###container > #pic_container
 ###container.container &gt; a.item
@@ -212,7 +211,6 @@
 ##.g-ad
 ##.gg_320
 ##.gg_fixed_drawer
-##.global_video_bottom_dbtc
 ##.google-ad
 ##.googleAd300x250
 ##.half-img
@@ -285,7 +283,6 @@
 ##.trc-content-sponsored
 ##.tt_box
 ##.ui-gd-app
-##.video-ads
 ##.wapgg
 ##.wgt-ad-recommend
 ##.wp.a_f
@@ -624,7 +621,6 @@
 /track.gif?
 /v.aspx?bln=
 /v.gif?logtype=
-/videoad.
 /xxgg/book.js
 /z.zolapp.
 :5678/mb1/wap_
@@ -813,7 +809,6 @@ ac.qq.com##.app-guiding
 acfun.cn##.header-ico
 acs86.com
 acwifi.net##a[href*="u.jd.com"]
-ad.mobile.youku.com
 adbanner
 addthis.com
 adget.cn
@@ -832,7 +827,6 @@ adsense
 adservice.
 adsrich.qq.com
 adsrvr.org
-adss.video.qq.com
 ad-survey.com
 -ads-widget/
 advert
@@ -879,7 +873,6 @@ assp.sohu.com
 at*.doubanio.com
 at1.doubanio.com
 atas.io
-atm.youku.com
 aty.sohu.com
 autohome.com.cn###qabotLayer
 autohome.com.cn###recommendJxWrap
@@ -1091,18 +1084,6 @@ becode.qiushibaike.com
 beibei100.net
 bensezhiye.com
 bestvogue.com/fans/
-bilibili.com###floatBtn
-bilibili.com###openAppBtn
-bilibili.com##.bili-app-link
-bilibili.com##.index__cccBtn__M-home-topArea-
-bilibili.com##.index__cccTips__M-videoPage-player-
-bilibili.com##.index__container__src-commonComponent-bottomOpenApp-
-bilibili.com##.index__openAppBtn__M-commonComponent-topArea-
-bilibili.com##.index__openAppBtn__src-commonComponent-topArea-
-bilibili.com##.index__openBtn__M-commonComponent-openBtn-
-bilibili.com##.index__openBtn__src-commonComponent-openBtn-
-bilibili.com##.index__upBtn__M-videoPage-topArea-
-bilibili.com##.pink.f-right.basic.bili-btn
 bing.com###BottomAppPro
 bingdiantao.com
 biochempop.com
@@ -1259,7 +1240,6 @@ doutula.com###abptip
 doutula.com/img/upupoo/
 douyu.com##.HomeFooter-downLoadClient
 douyu.com##.layout-ball
-douyu.com##.see-super-definition-videos
 down.58.com/js/58appLaunch.js?
 download.csdn.net##.fixed_box
 dqq.lnfund.org.cn
@@ -1529,15 +1509,6 @@ inke.cn##.fadeout.launch-inkeapp
 inke.cn##.promotion
 inte.sogou.com
 inte.sogoucdn.com$domain=~index.sogou.com
-iqiyi.com###bottomNativePopup
-iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
-iqiyi.com##.link-app
-iqiyi.com##.m-wl-borderT.m-wl-entrance
-iqiyi.com##.po-fixed.m-guide
-iqiyi.com##[class="longDiversion-content"]
-iqiyi.com##a.c-btn.c-btn-block
-iqiyi.com##div.iqy-items
-iqiyi.com##div.m-ipRelation.m-ipRelation-full
 isdspeed.qq.com
 ishowms.com
 itc.cn/w/u/0/old-insertad-
@@ -1863,7 +1834,7 @@ p1.ifengimg.com/a80c2beeeff78280/2017/28/luckybag
 p4yy.com##.leaveNavInfo
 p4yy.com/gg/
 pagead2.
--pagead-id.
+#NAME?
 pagechoice.net
 pan.baidu.com##.active-msg
 pan.baidu.com##.activity-icon
@@ -1882,7 +1853,6 @@ pcauto.com.cn/3g/wap*/intf/*/intf*.js?callback=tuiguang
 pcmx.autohome.com.cn/impress?
 pconline.com.cn/_hux_/
 pdfbs.com
-pearvideo.com###actApp
 peng3.com$third-party
 penggua.com.cn
 pfp.sina.net/ea/ad/
@@ -2026,7 +1996,6 @@ sifuhe.cn
 sina.cn###goActivity
 sina.cn###j_fixAppBtn
 sina.cn###midThreeAds
-sina.cn##.j_call_native.videoDes_newsApp
 sina.cn##.m_f_a[data-href^="http://saxs."]
 sina.cn##.s_card_white_m.j_native
 sina.cn##[href*="://sax"]
@@ -2115,7 +2084,6 @@ suning.com##.float-b
 suning.com##.v5-headDown
 suning.com##.wtable
 sv.baidu.com##[class$=container]
-sv.bdstatic.com/static/videoui/pkg/pkg_index_1e795de.js
 sxmdxy.com
 syma*.cn
 symaa.cn
@@ -2135,7 +2103,6 @@ tb*.bdstatic.com/tb/*/hongbao*.png
 tb2.bdstatic.com/tb/mobile/spb/img/fixed_84bff53.png
 tcnmf.com
 tdtsd.com
-tencentvideo/script/webtips/
 th21333.com
 tharbadir.com
 thepaper.cn###carousel_banner
@@ -2238,7 +2205,6 @@ tv.sohu.com##.btn-comment-app
 tv.sohu.com##.btn-xz-app
 tv.sohu.com##.dl-top-banner
 tv.sohu.com##a[href^="http://mmg.aty.sohu.com/goto/http"]
-tv.uc.cn###web_video_index_hot_above
 tv.uc.cn##div[class*=ucdownload]
 tv38q.cn
 txtxr.com
@@ -2443,13 +2409,6 @@ yongcongcao.cn
 youdao.com/market/banner/banner
 youdao.com/rlog.php
 youhm.cn
-youku.com###banner
-youku.com###Bigdrama
-youku.com###FullPromotion
-youku.com###J_banner
-youku.com##div[id][class*="circle-wrapper"]
-youku.com##div[style^="width: 100px; height: 100px; "]
-youku.com##div[style^="width:100px;height:100px;"]
 youle55.com
 youmengkm.com
 youtube.com###koya_child_7
