@@ -1,7 +1,7 @@
 !Title:移动广告过滤补充规则
 !Description:整合了Qiumiaojingxi和YanFung的规则，添加了部分自用的规则。
 !Homepage:https://github.com/loveqqzj/Ad-Filters
-!Version:2019.11.28
+!Version:2019.12.04
 !----------------------------------
 ## .YWBDAD
 ###_embed_v3_dc
