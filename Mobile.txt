@@ -1604,7 +1604,6 @@ jiemian.com##.header-show.header
 jin.baidu.com##.grid-mt.loan-recommend
 jinchaoyu.com
 jingonghuanbao.com
-jingyan.baidu.com##.wgt-ad-recommend+div[class]
 jinshasi.cn
 jiupinshan.cn
 jjxgly.com
