@@ -1,7 +1,7 @@
 !Title:移动广告过滤补充规则
 !基于Qiumiaojingxi和YanFung的规则自定义。
 !Homepage:https://github.com/loveqqzj/AdGuard
-!Version:2019.12.21
+!Version:2019.12.22
 !----------------------------------
 ## .YWBDAD
 ###_embed_v3_dc
@@ -860,6 +860,7 @@ baidu.com###ns-swipe
 baidu.com###page > #index-card > script + div[style]
 baidu.com###page_wrapper > div > div[class^="_"]
 baidu.com###page-copyright
+baidu.com###page-ft
 baidu.com###page-relative.se-page-relative
 baidu.com###page-tips.se-page-tips
 baidu.com###relative_shop_flow
@@ -1155,6 +1156,7 @@ dai18.mumu01.com
 daima.jiazhao.com
 daishuxy.com
 dakawm.cc
+dama.lu##div.tool-box.user-info
 damiren.com
 danangmo.cn
 dandan4.top
@@ -1471,6 +1473,7 @@ itc.cn/w/u/0/old-insertad-
 ithome.com###bd-share-box
 ithome.com###ruanmei-apps
 ithome.com##.down-app-box
+ithome.com##.footer-box
 ithome.com##.grade
 ithome.com##.hot-app
 ithome.com##.lapin
@@ -1515,6 +1518,7 @@ jiemian.com##.header-show.header
 jin.baidu.com##.grid-mt.loan-recommend
 jinchaoyu.com
 jingonghuanbao.com
+jingyan.baidu.com##wrapper > div.exp-container > div.wgt-rel-exp-feed
 jingyan.baidu.com##.wgt-ad-recommend + div[class]
 jinshasi.cn
 jiupinshan.cn
