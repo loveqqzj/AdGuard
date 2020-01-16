@@ -1,5 +1,5 @@
 !Title:移动广告过滤补充规则
-!Description:Adguard移动广告过滤补充规则，整合了Qiumiaojingxi和YanFung的规则，添加部分自用规则。
+!Adguard移动广告过滤补充规则，整合了Qiumiaojingxi和YanFung的规则，添加部分自用规则。
 !Version:2020.01.17
 !Homepage:https://github.com/loveqqzj/AdGuard
 !------------------------------
@@ -1540,8 +1540,6 @@ jiemian.com##.header-show.header
 jin.baidu.com##.grid-mt.loan-recommend
 jinchaoyu.com
 jingonghuanbao.com
-jingyan.baidu.com##.wgt-ad-recommend + div[class]
-jingyan.baidu.com##wrapper > div.exp-container > div.wgt-rel-exp-feed
 jinshasi.cn
 jiupinshan.cn
 jjxgly.com
@@ -2091,36 +2089,6 @@ tianxiazhenji.com
 tianya.cn##.load_m_top
 tianya.cn##.rec-app
 tiaopimiao.net
-tieba.baidu.com###pb_reply_postor_wrap > .daoliu-content-wrap
-tieba.baidu.com##.appBottomPromote
-tieba.baidu.com##.appPromote
-tieba.baidu.com##.father_cut_daoliu
-tieba.baidu.com##.father-cut-recommend-normal-box
-tieba.baidu.com##.fixed_bar_logo
-tieba.baidu.com##.img_info_introduce
-tieba.baidu.com##.panel_bottom
-tieba.baidu.com##.pb_cut_hot_recommend
-tieba.baidu.com##.pb-footer.footer.j_footer.j_pb_footer
-tieba.baidu.com##.top-guide-wrap.top-guide
-tieba.baidu.com##.ui_image_header_bottom
-tieba.baidu.com##[class$="j_click_stats"]
-tieba.baidu.com##[class^="hongbao_"]
-tieba.baidu.com##[class^=footer]
-tieba.baidu.com##[lgoinprompt="prompt"]
-tieba.baidu.com##a.fixed_bar
-tieba.baidu.com##li.tl_shadow.tl_shadow_new.tl_shadow_for_app
-tieba.baidu.com##li.tl_shadow.tl_shadow_new[class*="0"]
-tieba.baidu.com##li.tl_shadow.tl_shadow_new[class*="1"]
-tieba.baidu.com##li.tl_shadow.tl_shadow_new[class*="2"]
-tieba.baidu.com##li.tl_shadow.tl_shadow_new[class*="3"]
-tieba.baidu.com##li.tl_shadow.tl_shadow_new[class*="4"]
-tieba.baidu.com##li.tl_shadow.tl_shadow_new[class*="5"]
-tieba.baidu.com##li.tl_shadow.tl_shadow_new[class*="6"]
-tieba.baidu.com##li.tl_shadow.tl_shadow_new[class*="7"]
-tieba.baidu.com##li.tl_shadow.tl_shadow_new[class*="8"]
-tieba.baidu.com##li.tl_shadow.tl_shadow_new[class*="9"]
-tieba.baidu.com,wapp.baidu.com###pblist > li[class]:not(.j_post_list_item)
-tieba.baidu.com/mo/q/tuijianindex?uid=
 tiexue.net##a[href*=".junp"]
 tiexue.net##a[href*="game.tiexue."]
 tiexue.net##div.g_iframe
