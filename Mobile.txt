@@ -1,6 +1,6 @@
 !Title:移动广告过滤补充规则
+!Adguard移动广告过滤补充规则，基于Qiumiaojingxi和YanFung的规则，添加部分自用规则。
 !Version:2020.01.17
-!Description:基于Qiumiaojingxi和YanFung的规则自定义。
 !Homepage:https://github.com/loveqqzj/AdGuard
 !------------------------------
 ## .YWBDAD
