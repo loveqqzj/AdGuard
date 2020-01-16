@@ -1519,6 +1519,7 @@ ja*.gamersky.com
 javbus.com###related-waterfall
 javbus.com##h4
 javbus.com##div.row.ptb30
+javlibrary.com##.about
 jbflil.cn
 jcdb88.com
 jd.com/exsites?spread_type=
