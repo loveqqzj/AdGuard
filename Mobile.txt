@@ -1217,6 +1217,8 @@ dottexpress.com
 douban.com###topnav-openapp
 douban.com##.promo_top_banner
 douban.com#@#.download-app
+douban.com#div.subject-banner
+douban.com#div.sub-vendor
 doutula.com###abptip
 doutula.com/img/upupoo/
 douyu.com##.HomeFooter-downLoadClient
