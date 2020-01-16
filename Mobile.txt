@@ -1182,7 +1182,6 @@ daima.jiazhao.com
 daishuxy.com
 dakawm.cc
 dama.lu##div.tool-box
-dama.lu##div.tool-box.user-info
 damiren.com
 danangmo.cn
 dandan4.top
@@ -1519,6 +1518,7 @@ j6r9oi.cn
 ja*.gamersky.com
 javbus.com###related-waterfall
 javbus.com##h4
+javbus.com##div.row.ptb30
 jbflil.cn
 jcdb88.com
 jd.com/exsites?spread_type=
