@@ -1541,7 +1541,8 @@ jin.baidu.com##.grid-mt.loan-recommend
 jinchaoyu.com
 jingonghuanbao.com
 jingyan.baidu.com##.wgt-ad-recommend + div[class]
-jingyan.baidu.com##wrapper > div.exp-container > div.wgt-rel-exp-feed
+jingyan.baidu.com##div.wgt-rel-exp-feed
+jingyan.baidu.com##a.article-feed-next
 jinshasi.cn
 jiupinshan.cn
 jjxgly.com
