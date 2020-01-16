@@ -1,2 +1,2 @@
 # AdGuard广告过滤补充规则
-基于YanFung和Qiumiaojingxi自定义
+Adguard移动广告过滤补充规则，整合了Qiumiaojingxi和YanFung的规则，添加部分自用规则。
