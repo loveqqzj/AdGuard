@@ -854,6 +854,8 @@ autohome.com.cn/news/$script
 autohome.com.cn/risk_fp_log?
 autohome.com.cn/vr/*?pvareaid=
 autoimg.cn/bi/mda/ahas_body.
+avmask.com###movie-share
+avmask.com##h4
 awqsaged.cn
 b1.meet99.com
 b17.shangc.net
@@ -1516,6 +1518,7 @@ j.baminw.cn
 j6r9oi.cn
 ja*.gamersky.com
 javbus.com###related-waterfall
+javbus.com##h4
 jbflil.cn
 jcdb88.com
 jd.com/exsites?spread_type=
