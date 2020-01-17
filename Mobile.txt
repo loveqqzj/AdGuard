@@ -922,6 +922,7 @@ baidu.com##.popup_mask
 baidu.com##.result.c-result[tpl="wise_ios_app_open"]
 baidu.com##.se-bearicon
 baidu.com##.se-ft-promlink
+baidu.com##.se-head-logo
 baidu.com##.sfc-baipin-comment
 baidu.com##.sfc-image-content-result-browse-looprs
 baidu.com##.sfc-real-article-recommend
@@ -1059,6 +1060,7 @@ bensezhiye.com
 bestvogue.com/fans/
 bilibili.com###floatBtn
 bilibili.com###openAppBtn
+bilibili.com###relatives
 bilibili.com##.bili-app-link
 bilibili.com##.index__cccBtn__M-home-topArea-
 bilibili.com##.index__cccTips__M-videoPage-player-
