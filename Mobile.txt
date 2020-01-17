@@ -1649,6 +1649,9 @@ kuwo.cn##.open_app
 kuwo.cn##.topAppWrap
 kyad88.com
 laksdn.com
+landiannews.com###respond
+landiannews.com###scroll > section.content_left:first-child > img:nth-child(2)
+landiannews.com##.topic_list,.download_list,.grid_post,.video_list,.footer,.slick_sticky,.post_like,.post_share.share,.post_declare,.tags,.prevnext
 langxi.org###drk_ledtd
 langxi.org###pt+div>table
 langxi.org##.a_pb
