@@ -1,8 +1,8 @@
 !Title:移动广告过滤补充规则
 !Adguard移动广告过滤补充规则，整合了Qiumiaojingxi和YanFung的规则，添加部分自用规则。
-!Version:2020.01.17
 !Homepage:https://github.com/loveqqzj/AdGuard
-!------------------------------
+!Version:2020.01.17
+!----------------------------------
 ## .YWBDAD
 ###_embed_v3_dc
 ###a_ad
@@ -891,6 +891,7 @@ baidu.com##._1k19YN3-qdVhoYpBLDMjYV
 baidu.com##.animation.new-ux-recom-wrapper.c-recomm-wrap
 baidu.com##.banners
 baidu.com##.blank-frame
+baidu.com##.bottom-intro
 baidu.com##.bottomMargin
 baidu.com##.callicon-wrap
 baidu.com##.c-container.ec-container
@@ -923,6 +924,7 @@ baidu.com##.result.c-result[tpl="wise_ios_app_open"]
 baidu.com##.se-bearicon
 baidu.com##.se-ft-promlink
 baidu.com##.sfc-baipin-comment
+baidu.com##.sfc-image-content-result-browse-looprs
 baidu.com##.sfc-real-article-recommend
 baidu.com##.sf-wrap > .c-back + div[id]:last-child
 baidu.com##.square-banner-bgicon.index-banner
@@ -1193,6 +1195,11 @@ de.as.pptv.com
 delivery-pc.wasu.cn
 df888.eastday.com
 dgtle.com##.footer-abox
+dict.baidu.com###download-wrapper
+dict.baidu.com###fanyi-wrapper
+dict.baidu.com###home_footer
+dict.baidu.com##a.app-promotion-icon
+dict.baidu.com##section.c-result.c-row-tile
 difnxm.cn
 dilidili.wang##.h5game
 dilidili.wang##img[src^="/uploads/"]
@@ -1331,6 +1338,13 @@ go.sohu.com^*/?callback=
 godli.cn/uploads/
 gold.szonline.net/icgkop.js
 gonglve114.cn
+google.com###belowsb
+google.com###bres
+google.com###fbar
+google.com##.DExtrc
+google.com##.g.kno-result.rQUFld.mnr-c.g-blk
+google.com##.NFQFxe.EfDVh.mod
+google.com##div.fbar
 google.com/pagead/
 googleads.
 google-analytics.com/analytics.js
@@ -1361,6 +1375,11 @@ h0o33.cn
 h5.1ting.com/zfbhb/s/b.jpg$image
 h5.m.taobao.com/applink/smbConfig.html
 hanqidq.com
+hanyu.baidu.com###download-wrapper
+hanyu.baidu.com###fanyi-wrapper
+hanyu.baidu.com###home_footer
+hanyu.baidu.com##a.app-promotion-icon
+hanyu.baidu.com##section.c-result.c-row-tile
 hao123.com###btn
 hao123.com##.popup
 hao123.com##[class*="cn_tips"]
@@ -1464,6 +1483,9 @@ ifengimg.com/ifeng/sources/
 ifengimg.com/iis/iis_
 ifengimg.com/p/ax_
 ifengimg.com^*/sta_collection
+image.baidu.com##.hotPicCard
+image.baidu.com##.photographer-container
+image.baidu.com##.waterfallCard
 image.baidu.com/search/aspdetail?tn=baiduaspdetail&word=
 image/352^$third-party,script
 images.sohu.com/bill/
@@ -1519,8 +1541,8 @@ j.baminw.cn
 j6r9oi.cn
 ja*.gamersky.com
 javbus.com###related-waterfall
-javbus.com##h4
 javbus.com##div.row.ptb30
+javbus.com##h4
 javlibrary.com##.about
 jbflil.cn
 jcdb88.com
@@ -1534,13 +1556,21 @@ jhwj88.com
 jialingmm.net/dm/tj.js
 jianduankm.com
 jiangduw.com##.comiis_wx_gzgzh
+jianshu.com###book-novels-panel
 jianshu.com###rec-mo-ao-ad
+jianshu.com###recommended-notes
+jianshu.com##.book-chapter
+jianshu.com##.comment-open-app-btn-wrap
 jianshu.com##.download
+jianshu.com##.footer-wrap
 jianshu.com##.fubiao-dialog
 jianshu.com##.header-download
+jianshu.com##.header-wrap
 jianshu.com##.note-comment-above-ad-wrap
+jianshu.com##.note-graceful-button
 jianshu.com##.recommend-ad.recommend-wrap
 jianshu.com##.recommend-note > div > .stats-comp > div >[id]
+jianshu.com##.reward-description
 jianzhousc.com
 jiaoben.hotkd.com
 jiaoshouwang.com###wrapper > div > a > img
@@ -2402,6 +2432,7 @@ ynjczy.net
 ynjkkj.com
 ynwqls.com
 yongcongcao.cn
+youdao.com##.other-links
 youdao.com/market/banner/banner
 youdao.com/rlog.php
 youhm.cn
