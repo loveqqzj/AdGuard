@@ -1302,6 +1302,8 @@ forte8.com
 fpb1.chinacar.asia
 front99.com
 ftchinese.com/m/marketing/a.html?v=
+fulibus.net###respond
+fulibus.net##.relates.relates-thumb,.post-actions,.branding.branding-black
 funbox.upush.cn/images/funbox/icons/*.gif
 fuyigo.top
 fzb0*.qiushibaike.com
@@ -2039,6 +2041,7 @@ sjaidu.com
 sjuqc.com
 slvtx.com
 smucdn.com
+smzdm.com##.module-like-wrap,.module-card-wrap,.module-title,.footer-wrap.fixed-bottom
 smzdm.com##.red-btn.J_ota
 smzdm.com##.swiper-container-ios
 so.com###msocomBottomBanner
