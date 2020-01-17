@@ -883,7 +883,6 @@ baidu.com###page-ft
 baidu.com###page-relative.se-page-relative
 baidu.com###page-tips.se-page-tips
 baidu.com###relative_shop_flow
-baidu.com###results > div.c-result.result:first-child
 baidu.com###results-top.se-results-top.se-predestroy
 baidu.com###searchwordSdk
 baidu.com###userinfo-wraps
