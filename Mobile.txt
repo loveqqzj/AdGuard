@@ -1474,6 +1474,7 @@ idyjy.com/js/content/
 iefsf.com
 ienkdaccessible.cn
 ienkdago.cn
+ifanr.com##.article-sns-tool,.recommend-article
 ifanr.com##.popup-shown.popup-download.popup-top.popup
 ifeng.com##.ifengLookori
 ifeng.com##div[style="display: block;"]
@@ -1722,8 +1723,8 @@ m.y.qq.com##.top_box__btn
 m.youmengkm.com
 m.zymk.cn/js/0.8663614b5c.js
 mafengwo.cn##a.omcToBan
-mail.qq.com##div.top_announce.top_announce_mobileqq
 mail.qq.com##div.qm_toolbarSubTitle
+mail.qq.com##div.top_announce.top_announce_mobileqq
 maipubao.cn
 maizhenai.cn
 mall043.com
