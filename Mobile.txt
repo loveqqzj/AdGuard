@@ -1,7 +1,7 @@
 !Title:移动广告过滤补充规则
 !Adguard移动广告过滤补充规则，整合了Qiumiaojingxi和YanFung的规则，添加部分自用规则。
 !Homepage:https://github.com/loveqqzj/AdGuard
-!Version:2020.01.17
+!Version:2020.01.18
 !----------------------------------
 ## .YWBDAD
 ###_embed_v3_dc
@@ -801,7 +801,6 @@ adyun.com
 ae4.ifeng.com
 ahlxxx.com
 aiclicash.com
-aili.com$third-party
 aili.com^$third-party
 ailiyou1999.com
 aioda.cn
@@ -1724,6 +1723,7 @@ m.youmengkm.com
 m.zymk.cn/js/0.8663614b5c.js
 mafengwo.cn##a.omcToBan
 mail.qq.com##div.top_announce.top_announce_mobileqq
+mail.qq.com##div.qm_toolbarSubTitle
 maipubao.cn
 maizhenai.cn
 mall043.com
@@ -1755,7 +1755,6 @@ miaobige.com/mb/react.js
 miaopai.com##.footer
 miaos11.com
 miaozhen.com
-miaozhen.com$third-party
 mideaqd.com
 miercn.com##.color-box
 mini.eastday.com/toutiaoh5/js/page_details_v2.min.js
@@ -2465,7 +2464,6 @@ yuedu.163.com##img[src*="/yunyuedu.png"]
 yuewz.com###add_desktop
 yunsennet.com
 yxflz.com##.c_box > div[style]
-yxflz.com##.c_box>div[style]
 yy.com###baseText-main
 yy.com###footer
 yy.com##.v-footer-tipsbox-show.v-footer-tipsbox
