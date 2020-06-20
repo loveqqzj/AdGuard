@@ -40,6 +40,12 @@ zhidao.baidu.com###feed-recommend
 zhidao.baidu.com##.feed-recommend-list
 zhidao.baidu.com##div[class$="icon-bdad"]
 
+!---CSDN---
+blog.csdn.net##span.feed-Sign-span
+blog.csdn.net###operate
+blog.csdn.net###recommend
+blog.csdn.net###first_recommend_list
+
 !---DeepL翻译器---
 deepl.com###lmt_quotes_article
 deepl.com###lmt_pro_ad_container
@@ -77,6 +83,10 @@ ithome.com##.open-app
 ithome.com##.open-app-banner
 ithome.com##.relevant-news
 ithome.com/api/lapin/
+ithome.com##div.ft-item.news-share
+ithome.com##div.ft-item.news-collect.news-collect-gray
+quan.ithome.com##div.ft-item.tie-share
+quan.ithome.com##div.ft-item.tie-collect.tie-collect-gray
 
 !---JAV---
 javlibrary.com##.about
