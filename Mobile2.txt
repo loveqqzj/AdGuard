@@ -18,7 +18,7 @@ zhidao.baidu.com##.ui-mask
 zhidao.baidu.com##.ui-dialog.new-dialog
 zhidao.baidu.com###respect-footer
 zhidao.baidu.com##.bottom-banner
-zhidao.baidu.com##.ask-for-frend
+zhidao.baidu.com##a.ask-for-friend
 zhidao.baidu.com###feed-recommend
 zhidao.baidu.com###wgt-related-questions-new
 zhidao.baidu.com##.js-hot-topic.wgt-topic-hot
