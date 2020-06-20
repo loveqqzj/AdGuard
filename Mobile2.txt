@@ -30,7 +30,6 @@ jingyan.baidu.com###js-ad-orgi-banner
 zhidao.baidu.com##.ui-mask
 zhidao.baidu.com##.ui-dialog.new-dialog
 zhidao.baidu.com###respect-footer
-zhidao.baidu.com##.bottom-banner
 zhidao.baidu.com##a.ask-for-friend
 zhidao.baidu.com###wgt-related-questions-new
 zhidao.baidu.com##.js-hot-topic.wgt-topic-hot
@@ -119,9 +118,3 @@ pixiv.net##.premium-lead-new-t-info-home-top
 sis001.com###ad_mobileFullscreen
 sis001.com###ad_mobileHeaderSlide
 sis001.com##.overlay.active
-
-
-
-
-
-
