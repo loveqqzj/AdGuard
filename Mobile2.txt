@@ -6,6 +6,13 @@
 !---常用网站---
 dama.lu##.tool-box
 
+!---百度经验---
+jingyan.baidu.com###popupLead
+jingyan.baidu.com##.wgt-ad-recommend
+jingyan.baidu.com##a.article-feed-next
+jingyan.baidu.com##.wgt-rel-exp-feed
+jingyan.baidu.com###js-ad-orgi-banner
+
 !---DeepL翻译器---
 deepl.com###lmt_quotes_article
 deepl.com###lmt_pro_ad_container
