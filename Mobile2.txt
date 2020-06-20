@@ -6,6 +6,19 @@
 !---常用网站---
 dama.lu##.tool-box
 
+!---百度百科---
+baike.baidu.com###J-super-layer-promote
+baike.baidu.com###J-tashuo-button-fixed
+baike.baidu.com##.bk-common-dialog
+baike.baidu.com###relative_shop_flow
+baike.baidu.com###theme_container
+baike.baidu.com##a[onclick^="page.Mixedor.mixedOpen(this,"]
+baike.baidu.com###J-spark-icon
+baike.baidu.com###relative_shop_flow
+baike.baidu.com##.BK-after-content-wrapper
+baike.baidu.com##[target="_blank"]
+baike.baidu.com##div[id$="_container"]
+
 !---百度经验---
 jingyan.baidu.com###popupLead
 jingyan.baidu.com##.wgt-ad-recommend
