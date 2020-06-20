@@ -38,20 +38,7 @@ zhidao.baidu.com##.doodle-container
 zhidao.baidu.com##.show.doodle-container
 zhidao.baidu.com###feed-recommend
 zhidao.baidu.com##.feed-recommend-list
-zhidao.baidu.com##.header-act-entry
-zhidao.baidu.com##.home-app-promotion.home-mod
-zhidao.baidu.com##.left-show.new-answer-entry
-zhidao.baidu.com##.link
-zhidao.baidu.com##.quality-elinks
-zhidao.baidu.com##.question-container
-zhidao.baidu.com##.vivo-banner-all
-zhidao.baidu.com##.wgt-recommend-business
-zhidao.baidu.com##.wgt-topic-hot
-zhidao.baidu.com##.w-question-list[data-sign]
-zhidao.baidu.com##div[class$="-ecom-ads"]
 zhidao.baidu.com##div[class$="icon-bdad"]
-zhidao.baidu.com##[id^=kwlgn]
-zhidao.baidu.com##[id^=ngpwz5cff]
 
 !---DeepL翻译器---
 deepl.com###lmt_quotes_article
