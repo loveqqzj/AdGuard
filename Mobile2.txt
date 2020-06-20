@@ -13,6 +13,35 @@ jingyan.baidu.com##a.article-feed-next
 jingyan.baidu.com##.wgt-rel-exp-feed
 jingyan.baidu.com###js-ad-orgi-banner
 
+!---百度知道---
+zhidao.baidu.com##.ui-mask
+zhidao.baidu.com##.ui-dialog.new-dialog
+zhidao.baidu.com###respect-footer
+zhidao.baidu.com##.bottom-banner
+zhidao.baidu.com##a.ask-for-frend
+zhidao.baidu.com###feed-recommend
+zhidao.baidu.com###wgt-related-questions-new
+zhidao.baidu.com##.js-hot-topic.wgt-topic-hot
+zhidao.baidu.com##.bottom-banner
+zhidao.baidu.com##.conference-banner-all
+zhidao.baidu.com##.doodle-container.show
+zhidao.baidu.com##.feed-recommend-list
+zhidao.baidu.com##.header-act-entry
+zhidao.baidu.com##.home-app-promotion.home-mod
+zhidao.baidu.com##.js-hot-topic.wgt-topic-hot
+zhidao.baidu.com##.left-show.new-answer-entry
+zhidao.baidu.com##.link
+zhidao.baidu.com##.new-answer-entry.left-show
+zhidao.baidu.com##.quality-elinks
+zhidao.baidu.com##.question-container + div
+zhidao.baidu.com##.show.doodle-container
+zhidao.baidu.com##.vivo-banner-all
+zhidao.baidu.com##.wgt-recommend-business
+zhidao.baidu.com##.wgt-topic-hot
+zhidao.baidu.com##.w-question-list[data-sign]
+zhidao.baidu.com##div[class$="-ecom-ads"]
+zhidao.baidu.com##div[class$="icon-bdad"]
+
 !---DeepL翻译器---
 deepl.com###lmt_quotes_article
 deepl.com###lmt_pro_ad_container
