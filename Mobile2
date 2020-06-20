@@ -1,0 +1,36 @@
+!---IT之家---
+ithome.com###bd-share-box
+ithome.com###ruanmei-apps
+ithome.com##.down-app-box
+ithome.com##a.open-app-a
+ithome.com##.grade
+ithome.com##.hot-app
+ithome.com##.lapin
+ithome.com##.news-content-befor-promote
+ithome.com##.open-app
+ithome.com##.open-app-banner
+ithome.com##.relevant-news
+ithome.com/api/lapin/
+
+!---JAV---
+javlibrary.com##.about
+avmask.com###movie-share
+avmask.com##h4
+javbus.com##h4
+javbus.com##.row.ptb30
+javbus.com###related-waterfall
+javbus.com##.alert, .alert-info, .alert-dismissable, .alert-common
+
+!---蓝点网---
+landiannews.com###respond
+landiannews.com###scroll > section.content_left:first-child > img:nth-child(2)
+landiannews.com##.topic_list, .download_list, .grid_post, .video_list, .footer, .slick_sticky, .post_like, .post_share.share, .post_declare, .tags,.prevnext
+
+!---Pixiv---
+pixiv.net##.premium-lead
+pixiv.net##.premium-lead-t-footer
+pixiv.net##.ad-frame-container
+pixivision.net##._floated-bottom-bar
+pixiv.net##ul.pixiv.tri
+pixiv.net##li.platform-pc
+pixiv.net##.premium-lead-new-t-info-home-top
