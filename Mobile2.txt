@@ -890,10 +890,9 @@ huxiu.com##div[class="placeholder-box"][style="height: 56px;"]
 
 !---IT之家---
 ithome.com###bd-share-box, ruanmei-apps
-ithome.com##.down-app-box, .hot-app, .open-app, .open-app-banner, .relevant-news, .news-content-befor-promote, .grade, .lapin, .footer-box
+ithome.com##.down-app-box, .hot-app, .open-app, .open-app-banner, .relevant-news, .news-content-befor-promote, .grade, .lapin
 ithome.com##a.open-app-a
 ithome.com/api/lapin/
-quan.ithome.com##.ft-item.tie-collect.tie-collect-gray, .ft-item.tie-share
 
 !---JAV---
 javlibrary.com##.about
