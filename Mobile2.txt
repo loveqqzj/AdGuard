@@ -200,6 +200,7 @@ map.baidu.com##.bottom-banner-float, .container.styleguide.index-widget-guideban
 
 !---百度翻译---
 fanyi.baidu.com##.app-bar
+fanyi.baidu.com##.jifeng-container
 
 !---百度汉语---
 hanyu.baidu.com###download-wrapper
@@ -211,7 +212,6 @@ hanyu.baidu.com##section.c-result.c-row-tile
 !---百度经验---
 jingyan.baidu.com###popupLead
 jingyan.baidu.com##.wgt-ad-recommend, .wgt-rel-exp-feed
-jingyan.baidu.com##a.article-feed-next
 jingyan.baidu.com###js-ad-orgi-banner
 
 !---百度贴吧---
@@ -274,7 +274,6 @@ wenku.baidu.com##.wk-container.fc-btm-root, .wk-container.gain-doc-block-root
 wenku.baidu.com##a.sf-edu-wenku-id-right-fixed-ad-wrap
 
 !---百度知道---
-zhidao.baidu.com##.ui-mask, .ui-dialog.new-dialog
 zhidao.baidu.com###respect-footer
 zhidao.baidu.com##a.ask-for-friend
 zhidao.baidu.com###wgt-related-questions-new
