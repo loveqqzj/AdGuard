@@ -8,6 +8,7 @@ iqiyi.com###bottomNativePopup
 iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
 iqiyi.com##.ChannelHomeBanner_m-long-HDVideo_15nnb
 iqiyi.com##.link-app
+iqiyi.com##.list-app
 iqiyi.com##.m-wl-borderT.m-wl-entrance
 iqiyi.com##.po-fixed.m-guide
 iqiyi.com##[class="longDiversion-content"]
@@ -19,6 +20,10 @@ iqiyi.com##div.m-ipRelation.m-ipRelation-full
 bilibili.com###floatBtn
 bilibili.com###openAppBtn
 bilibili.com###relatives
+bilibili.com###relateRecomMore
+bilibili.com##.m-video2-openapp
+bilibili.com##.m-video-related
+bilibili.com##.float-bottom-bar
 bilibili.com##.bili-app-link
 bilibili.com##.index__cccBtn__M-home-topArea-
 bilibili.com##.index__cccTips__M-videoPage-player-
