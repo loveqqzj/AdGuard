@@ -737,7 +737,7 @@ hanyu.baidu.com##a.app-promotion-icon
 hanyu.baidu.com##section.c-result.c-row-tile
 
 !---百度经验---
-jingyan.baidu.com###popupLead, js-ad-orgi-banner
+!jingyan.baidu.com###popupLead, js-ad-orgi-banner
 jingyan.baidu.com##.wgt-rel-exp-feed
 jingyan.baidu.com##.wgt-ad-recommend + div[class]
 ##img[lazyload*="/jingyan.baidu.com/event/img/"]
