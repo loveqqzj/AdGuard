@@ -738,8 +738,6 @@ jingyan.baidu.com##.wgt-ad-recommend + div[class]
 tieba.baidu.com###celebrity
 tieba.baidu.com###spage_game_tab_wrapper
 tieba.baidu.com###spage_liveshow_slide
-
-
 tieba.baidu.com###pb_reply_postor_wrap > .daoliu-content-wrap
 tieba.baidu.com##.appBottomPromote, .appPromote, .father-cut-recommend-normal-box, .father_cut_daoliu
 tieba.baidu.com##.celebrity.aside_region, .clearfix.top-sec, .father-cut-recommend-normal-box, .j_footer.footer
@@ -1146,19 +1144,6 @@ zhihu.com##div[data-za-detail-view-path-is_ad]
 zhihu.com/api/v4/alter_banners/
 zhihu.com/api/v4/banners/
 zhihu.com/commercial_api/banners_
-
-!---直播类---
-huajiao.com##.banner, .follow, .open_huajiao, .tool-bar-open
-huya.com###swiper-banner
-huya.com##.banner-wrap, .chat_btn, .u-btn-down.header-app-btn, .u-btn-down.start-btn
-inke.cn##.bottom-fixed-layer, .fadeout.launch-inkeapp, .promotion
-miaopai.com##.footer
-v.6.cn##.charge, .zoro
-douyu.com##.HomeFooter-downLoadClient, .layout-ball, .see-super-definition-videos
-
-!---中国蓝TV-浙江广电---
-tv.cztv.com##.banner-bg, .lantv-yindao-btn, .zhishiqi-ul, .lantv-msg-btn, .qrcode-box, .smallbox, newCoommont
-tv.cztv.com##.swiper-container-horizontal.swiper-container3.banner
 
 !---中关村在线---
 zol.com.cn###intel-adv
