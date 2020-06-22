@@ -843,7 +843,7 @@ fulibus.net###respond
 fulibus.net##.relates.relates-thumb, .post-actions, .branding.branding-black
 
 !---谷歌---
-google.com###belowsb, bres, footer, sfooter
+google.com###belowsb, bres, footer, sfooter, fbar
 google.com##.DExtrc, .g.kno-result.rQUFld.mnr-c.g-blk, .NFQFxe.EfDVh.mod, .fbar
 google.com/pagead/
 googleads.
