@@ -14,52 +14,6 @@ gamersky.com/common/tg/
 tianya.cn##.load_m_top, .rec-app
 bing.com###BottomAppPro
 
-!---凤凰新闻---
-ifeng.com##.ifengLookori
-ifeng.com##div[style="display: block;"]
-ifeng.com/burroughsnews?
-ifeng.com/client_share_bottom_
-ifeng.com/showjs?*apids=
-ifengimg.com/a/o.js
-ifengimg.com/ifeng/sources/
-ifengimg.com/iis/iis_
-ifengimg.com/p/ax_
-ifengimg.com^*/sta_collection
-news.ifeng.com##[class^=content-]>[class^=link-]
-share.iclient.ifeng.com###openAppReadAll
-share.iclient.ifeng.com##.showIn.personBanner, .huaweiBanner
-
-!---爱奇艺---
-iqiyi.com###bottomNativePopup
-iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
-iqiyi.com##.ChannelHomeBanner_m-long-HDVideo_15nnb
-iqiyi.com##.link-app
-iqiyi.com##.m-wl-borderT.m-wl-entrance
-iqiyi.com##.po-fixed.m-guide
-iqiyi.com##[class="longDiversion-content"]
-iqiyi.com##a.c-btn.c-btn-block
-iqiyi.com##div.iqy-items
-iqiyi.com##div.m-ipRelation.m-ipRelation-full
-
-!---百度其他---
-##.baidu_ads_cell
-##img[src^="https://hiphotos.baidu.com/fex/"]
-cpu.baidu.com/js/cic.js
-f*.baidu.com/it/u=*,*&fm=$third-party
-mbd.baidu.com##div[class^="_"][style="visibility: visible;"]
-mbd.baidu.com/newspage/api/getrelatednews?nid=news_
-mipengine.baidu.com/common?
-mipengine.baidu.com/common?query=
-push.zhanzhang.baidu.com/push.js
-sp*.baidu.com*.gif?
-sv.baidu.com##[class$=container]
-t*.baidu.com/it/u=*,*&fm=76$third-party
-baidu.book.3g.cn##.box2_bg, .mip-stats-eventload.bot_bar
-dushu.baidu.com##.openBox-shareEntry
-news.baidu.com###share
-pan.baidu.com##.active-msg, .activity-icon, .box
-fanyi.baidu.com##.app-bar, .jifeng-container
-
 !---白名单---
 @@/adpic/$xmlhttprequest,domain=baidu.com
 @@||m.baidu.com/tcx?appui=*$xhr,domain=m.baidu.com
@@ -362,6 +316,7 @@ _yad_jsonp_
 ##.floorAd
 ##.foot-banner
 ##.footad
+##.footer-box
 ##.g-ad
 ##.gg
 ##.gg_320
@@ -592,6 +547,18 @@ _yad_jsonp_
 ##img[src="tp/hb1.png"]
 ##img[style="width: 950px; height: 60px; left: 10px;"][src*="/upload.cc"]
 ##li[data-type="ad"]
+
+!---爱奇艺---
+iqiyi.com###bottomNativePopup
+iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
+iqiyi.com##.ChannelHomeBanner_m-long-HDVideo_15nnb
+iqiyi.com##.link-app
+iqiyi.com##.m-wl-borderT.m-wl-entrance
+iqiyi.com##.po-fixed.m-guide
+iqiyi.com##[class="longDiversion-content"]
+iqiyi.com##a.c-btn.c-btn-block
+iqiyi.com##div.iqy-items
+iqiyi.com##div.m-ipRelation.m-ipRelation-full
 
 !---百度---
 bdstatic.com*/mip-*ad
@@ -829,6 +796,26 @@ zhidao.baidu.com##.left-show.new-answer-entry
 baijiahao.baidu.com###searchwordSdk
 baijiahao.baidu.com##.bottomMargin
 
+!---百度其他---
+##.baidu_ads_cell
+##img[src^="https://hiphotos.baidu.com/fex/"]
+cpu.baidu.com/js/cic.js
+f*.baidu.com/it/u=*,*&fm=$third-party
+mbd.baidu.com##div[class^="_"][style="visibility: visible;"]
+mbd.baidu.com/newspage/api/getrelatednews?nid=news_
+mipengine.baidu.com/common?
+mipengine.baidu.com/common?query=
+push.zhanzhang.baidu.com/push.js
+sp*.baidu.com*.gif?
+sv.baidu.com##[class$=container]
+t*.baidu.com/it/u=*,*&fm=76$third-party
+baidu.book.3g.cn##.box2_bg, .mip-stats-eventload.bot_bar
+dushu.baidu.com##.openBox-shareEntry
+news.baidu.com###share
+pan.baidu.com##.active-msg, .activity-icon, .box
+fanyi.baidu.com##.app-bar, .jifeng-container
+
+
 !---哔哩哔哩---
 bilibili.com###floatBtn, openAppBtn, relatives
 bilibili.com##.bili-app-link
@@ -858,10 +845,28 @@ download.csdn.net##.fixed_box
 douban.com###topnav-openapp
 douban.com##.promo_top_banner, .download-app, .sub-vendor, .subject-banner
 
+!---房天下---
+fang.com##.xqMore.toapp, .topDownload
+
 !---方正字库---
 foundertype.com###guidePhoneXcxBox
 foundertype.com##div.ad_plus_info
 foundertype.com/public/home/img/guidexcx/telpic.png$image
+
+!---凤凰新闻---
+ifeng.com##.ifengLookori
+ifeng.com##div[style="display: block;"]
+ifeng.com/burroughsnews?
+ifeng.com/client_share_bottom_
+ifeng.com/showjs?*apids=
+ifengimg.com/a/o.js
+ifengimg.com/ifeng/sources/
+ifengimg.com/iis/iis_
+ifengimg.com/p/ax_
+ifengimg.com^*/sta_collection
+news.ifeng.com##[class^=content-]>[class^=link-]
+share.iclient.ifeng.com###openAppReadAll
+share.iclient.ifeng.com##.showIn.personBanner, .huaweiBanner
 
 !---福利吧---
 fulibus.net###respond
@@ -1037,8 +1042,9 @@ egame.qq.com##.islider-outer, .ui-util-installbar
 i.y.qq.com##.js_pg_content.top_operation_box, .js_tj.js_download.btn_download
 ke.qq.com###app-load-box
 ltsdl.qq.com^*.ts
-m.y.qq.com###js_mod_dialog
-m.y.qq.com##.bottom_bar, .top_box__btn
+qq.com###js_mod_dialog
+qq.com##.bottom_bar, .top_box__btn
+qq.com##.elevator
 qq.com/nodeapi/api/ads
 qq.com/static/web/websites/newsplugin/ssp_ad_
 qq.com/tbs/tbsad/
@@ -1074,6 +1080,8 @@ v2ex.com##[class^=sidebar_]
 163.com##.m_pbpb, .m_pbpb.pbpb-item.clearfix, .wakeup_client.js-wakeupclient
 163.com##.m-slider-footer, .ne_idol_act, .ne_rps.home_packet, .papa-item
 163.com##.redpacket-footer, .redpacket-subbox, .redpacket-toolsbar, .redpacket-topbar
+163.com##.comment_bot, .widget-slider-article.bottom
+163.com##.hot_news, .relative_doc, .bottom-btn-wrap, .g-relative-new
 163.com*/special/*_ad_
 163.com/nc/backflow/jsonp/clickrate.html?callback=newsappBackFlow
 163.com/ur?site=netease&affiliate=
@@ -1112,8 +1120,11 @@ n.sinaimg.cn/default/b953131b/20170614/blog.png
 news.sina.cn##[class="s_card j_tianyi"]>div[class][id]
 pfp.sina.net/ea/ad/
 sax*.sina.
-sina.cn###goActivity, j_fixAppBtn, midThreeAds
+sina.cn###goActivity, j_fixAppBtn, midThreeAds, pageJumpBtn
 sina.cn##.j_call_native.videoDes_newsApp, .s_card_white_m.j_native, .specSlide2Wrap, .voice
+sina.cn##.j_relevent_video, .j_article_relevent_news.z_c2, .j_article_relevent.j_wbrecommend_wrap
+sina.cn##.fix_bottom, .fl_suspension_box, .app_tsview_div
+sina.cn##.j_cmnt_bottom, .j_call_native, .topLogoBar, .fl_words
 sina.cn##.m_f_a[data-href^="http://saxs."]
 sina.cn##[href*="://sax"]
 sina.cn##[href^="http://saxs."]>.f_card
