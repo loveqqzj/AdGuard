@@ -1,7 +1,7 @@
-!Title:移动广告过滤补充规则-beta
+!Title:移动广告过滤补充规则-Beta
 !Adguard移动广告过滤自用规则，部分引用了YanFung和Qiumiaojingxi的规则。
 !Homepage:https://github.com/loveqqzj/AdGuard
-!Version:2020.06.21
+!Version:2020.06.22
 !----------------------------------
 !---其他网站---
 dama.lu##.tool-box
