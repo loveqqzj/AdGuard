@@ -16,7 +16,9 @@ iqiyi.com##div.iqy-items
 iqiyi.com##div.m-ipRelation.m-ipRelation-full
 
 !---哔哩哔哩---
-bilibili.com###floatBtn, openAppBtn, relatives
+bilibili.com###floatBtn
+bilibili.com###openAppBtn
+bilibili.com###relatives
 bilibili.com##.bili-app-link
 bilibili.com##.index__cccBtn__M-home-topArea-
 bilibili.com##.index__cccTips__M-videoPage-player-
@@ -29,7 +31,8 @@ bilibili.com##.index__upBtn__M-videoPage-topArea-
 bilibili.com##.pink.f-right.basic.bili-btn
 
 !---乐视---
-le.com###j-leappMore, j-zhoubian
+le.com###j-leappMore
+le.com###j-zhoubian
 le.com###j-recommend > .animate1.column_box
 le.com##.addDesktop, .footer, .leapp_btn
 
@@ -42,7 +45,9 @@ tv.sohu.com##.actv-banner, .banner-container, .btn-comment-app, .btn-xz-app, .dl
 tv.sohu.com##a[href^="http://mmg.aty.sohu.com/goto/http"]
 
 !---腾讯视频---
-v.qq.com###banner, vip_activity, vip_privilege
+v.qq.com###banner
+v.qq.com###vip_activity
+v.qq.com###vip_privilege
 v.qq.com##._banner.btn_open_v, .btn_promotion, .mod_game_rec.mod_box, .swiper-wrapper, .swiper-wrapper.source_container
 v.qq.com##[id*=game_rec]
 v.qq.com##div[_hot="banner"]
@@ -54,7 +59,10 @@ tudou.com###topbar-slider
 tudou.com##.td-h5__appguide, .td-h5__appguide-fix, .td-h5__player__appguide
 
 !---优酷---
-youku.com###banner, Bigdrama, FullPromotion, J_banner
+youku.com###banner
+youku.com###Bigdrama
+youku.com###FullPromotion
+youku.com###J_banner
 youku.com##.clipboard
 youku.com##div[id][class*="circle-wrapper"]
 youku.com##div[style^="width: 100px; height: 100px; "]
