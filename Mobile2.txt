@@ -7,7 +7,8 @@
 dama.lu##.tool-box
 ifanr.com##.article-sns-tool, .recommend-article, .popup-shown.popup-download.popup-top.popup
 suning.com##.float-b, .v5-headDown, .wtable
-deepl.com###lmt_quotes_article, lmt_pro_ad_container
+deepl.com###lmt_quotes_article
+deepl.com###lmt_pro_ad_container
 dgtle.com##.footer-abox
 fuhaozi.com##.list_new
 gamersky.com/common/tg/
@@ -552,7 +553,8 @@ bdstatic.com/tb/cms/*%e5%ba%95%e9%83%a8
 bdstatic.com^*/mip-*ad
 bdstatic.com^*/static/itemrep/afdtujituijian/
 bdstatic.com^*/tam-ogel/
-baidu.com###afd_content, bottom, gh-safariicon-container
+baidu.com###afd_content, bottom
+baidu.com###gh-safariicon-container
 baidu.com###header > [style="overflow: hidden;background: #fff;"]
 baidu.com###header > script + [style]
 baidu.com###hotwordlist
@@ -698,16 +700,21 @@ baidu.com^*/app/banner_
 baidu.com##.direct-new, .gh-safariicon-container
 
 !---百度百科---
-baike.baidu.com###J-super-layer-promote, J-tashuo-button-fixed, J-spark-icon
+baike.baidu.com###J-super-layer-promote
+baike.baidu.com###J-tashuo-button-fixed
+baike.baidu.com###J-spark-icon
 baike.baidu.com##.bk-common-dialog, .BK-after-content-wrapper
-baike.baidu.com###relative_shop_flow, theme_container
+baike.baidu.com###relative_shop_flow
+baike.baidu.com###theme_container
 baike.baidu.com##div[class][id]>a[data-num][onclick^="page.Mixedor.mixedOpen"]
 baike.baidu.com##ul[class][id]>li>a[onclick^="page.Mixedor.mixedOpen"]
 baike.baidu.com##[target="_blank"]
 baike.baidu.com##div[id$="_container"]
 
 !---百度词典---
-dict.baidu.com###download-wrapper, fanyi-wrapper, home_footer
+dict.baidu.com###download-wrapper
+dict.baidu.com###fanyi-wrapper
+dict.baidu.com###home_footer
 dict.baidu.com##a.app-promotion-icon
 dict.baidu.com##section.c-result.c-row-tile
 
@@ -716,18 +723,23 @@ map.baidu.com###index-areaEntry-widget
 map.baidu.com##.bottom-banner-float, .container.styleguide.index-widget-guidebanner
 
 !---百度汉语---
-hanyu.baidu.com###download-wrapper, fanyi-wrapper, home_footer
+hanyu.baidu.com###download-wrapper
+hanyu.baidu.com###fanyi-wrapper
+hanyu.baidu.com###home_footer
 hanyu.baidu.com##a.app-promotion-icon
 hanyu.baidu.com##section.c-result.c-row-tile
 
 !---百度经验---
-!jingyan.baidu.com###popupLead, js-ad-orgi-banner
 jingyan.baidu.com##.wgt-rel-exp-feed
 jingyan.baidu.com##.wgt-ad-recommend + div[class]
 ##img[lazyload*="/jingyan.baidu.com/event/img/"]
 
 !---百度贴吧---
-tieba.baidu.com###celebrity, spage_game_tab_wrapper, spage_liveshow_slide
+tieba.baidu.com###celebrity
+tieba.baidu.com###spage_game_tab_wrapper
+tieba.baidu.com###spage_liveshow_slide
+
+
 tieba.baidu.com###pb_reply_postor_wrap > .daoliu-content-wrap
 tieba.baidu.com##.appBottomPromote, .appPromote, .father-cut-recommend-normal-box, .father_cut_daoliu
 tieba.baidu.com##.celebrity.aside_region, .clearfix.top-sec, .father-cut-recommend-normal-box, .j_footer.footer
@@ -760,7 +772,7 @@ image.baidu.com/search/aspdetail?tn=baiduaspdetail&word=
 
 !---百度文库---
 wenku.baidu.com##.fc-wrap, .ft, .item.frist-item, .fc-btm-root, .wk-container
-wenku.baidu.com##a.ad-vip-close-bottom, a.ggbtm-vip-close, .b-tuijian-root, .bottom-bar-global
+wenku.baidu.com##.ad-vip-close-bottom, .ggbtm-vip-close, .b-tuijian-root, .bottom-bar-global
 wenku.baidu.com##div[class*="banner-ad"]
 wenku1.com/js/head.js
 wenku.baidu.com###carousel
@@ -769,12 +781,12 @@ wenku.baidu.com##.wk-container.fc-btm-root, .wk-container.gain-doc-block-root
 wenku.baidu.com##a.sf-edu-wenku-id-right-fixed-ad-wrap
 
 !---百度知道---
-zhidao.baidu.com###respect-footer, feed-recommend, wgt-related-questions-new
-zhidao.baidu.com##a.ask-for-friend
+zhidao.baidu.com###respect-footer
+zhidao.baidu.com###feed-recommend
+zhidao.baidu.com###wgt-related-questions-new
+zhidao.baidu.com##.ask-for-friend, .header-act-entry, .left-show.new-answer-entry
 zhidao.baidu.com##.doodle-container, .show.doodle-container, .conference-banner-all, .js-hot-topic.wgt-topic-hot, .feed-recommend-list
 zhidao.baidu.com##div[class$="icon-bdad"]
-zhidao.baidu.com##.header-act-entry
-zhidao.baidu.com##.left-show.new-answer-entry
 
 !---百家号---
 baijiahao.baidu.com###searchwordSdk
@@ -808,7 +820,9 @@ cnbetacdn.com/frontend/vipics/yijian
 
 !---CSDN---
 blog.csdn.net##span.feed-Sign-span
-blog.csdn.net###operate, recommend, first_recommend_list
+blog.csdn.net###operate
+blog.csdn.net###recommend
+blog.csdn.net###first_recommend_list
 download.csdn.net##.fixed_box
 
 !---豆瓣---
@@ -843,8 +857,12 @@ fulibus.net###respond
 fulibus.net##.relates.relates-thumb, .post-actions, .branding.branding-black
 
 !---谷歌---
-google.com###belowsb, bres, footer, sfooter, fbar
-google.com##.DExtrc, .g.kno-result.rQUFld.mnr-c.g-blk, .NFQFxe.EfDVh.mod, .fbar
+google.com###belowsb
+google.com###bres
+google.com###footer
+google.com###sfooter
+google.com###fbar
+google.com##.DExtrc, .g.kno-result.rQUFld.mnr-c.g-blk, .NFQFxe.EfDVh.mod
 google.com/pagead/
 googleads.
 google-analytics.com/analytics.js
@@ -864,16 +882,17 @@ huxiu.com##.fresh-article-box, .js-open-app.bgw.guide-box, .topToApp.js-guide-bo
 huxiu.com##div[class="placeholder-box"][style="height: 56px;"]
 
 !---IT之家---
-ithome.com###bd-share-box, ruanmei-apps
-ithome.com##.down-app-box, .hot-app, .open-app, .open-app-banner, .relevant-news, .news-content-befor-promote, .grade, .lapin
-ithome.com##a.open-app-a
+ithome.com###bd-share-box
+ithome.com###ruanmei-apps
+ithome.com##.down-app-box, .hot-app, .open-app, .open-app-banner, .relevant-news, .news-content-befor-promote, .grade, .lapin, .open-app-a
 ithome.com/api/lapin/
 
 !---JAV---
 javlibrary.com##.about
 avmoo.host###movie-share
 avmoo.host##h4
-javbus.com##h4, related-waterfall
+javbus.com##h4
+javbus.com##related-waterfall
 javbus.com##.alert, .alert-info, .alert-dismissable, .alert-common, .row.ptb30
 
 !---今日头条---
@@ -884,7 +903,9 @@ toutiao.com##[class="news-banner-container-new-article banner-top new-style-test
 toutiao.com##a[href][class][data-action-label="click_news_entertainment"][data-tag^="ad."]
 
 !---简书---
-jianshu.com###book-novels-panel, rec-mo-ao-ad, recommended-notes
+jianshu.com###book-novels-panel
+jianshu.com###rec-mo-ao-ad
+jianshu.com###recommended-notes
 jianshu.com##.download, .footer-wrap, .reward-description, .header-wrap, .note-comment-above-ad-wrap, .comment-open-app-btn-wrap
 jianshu.com##.fubiao-dialog, .header-download, .note-graceful-button, .recommend-ad.recommend-wrap, .book-chapter
 jianshu.com##.recommend-note > div > .stats-comp > div >[id]
@@ -907,7 +928,9 @@ landiannews.com###scroll > section.content_left:first-child > img:nth-child(2)
 landiannews.com##.topic_list, .download_list, .grid_post, .video_list, .footer, .slick_sticky, .post_like, .post_share.share, .post_declare, .tags,.prevnext
 
 !---澎湃新闻---
-thepaper.cn###carousel_banner, head_ask_app_down, moblink_top_detail_xiazai
+thepaper.cn###carousel_banner
+thepaper.cn###head_ask_app_down
+thepaper.cn###moblink_top_detail_xiazai
 thepaper.cn##.app_down4, .news_open_app
 
 !---Pixiv---
@@ -918,7 +941,10 @@ pixiv.net##.premium-lead-new-t-info-home-top, ._floated-bottom-bar
 
 !---汽车之家---
 m.autohome.com.cn/news/
-autohome.com.cn###qabotLayer, recommendJxWrap, section_homtpop, shang_tip
+autohome.com.cn###qabotLayer
+autohome.com.cn###recommendJxWrap
+autohome.com.cn###section_homtpop
+autohome.com.cn###shang_tip
 autohome.com.cn##.myAppendList16, .sign-wp
 autohome.com.cn##a[href^="https://at.umeng.com/"]
 autohome.com.cn##div[style="margin: 0 15px"]
@@ -934,7 +960,9 @@ so.com##.e_idea_list
 pubimage.360doc.com/transfer/images/zhaishou2.png
 
 !---驱动之家---
-mydrivers.com###dangbei_down, ul_relatednews, weixin
+mydrivers.com###dangbei_down
+mydrivers.com###ul_relatednews
+mydrivers.com###weixin
 mydrivers.com##.erwm, .jptj, .share
 mydrivers.com##a[href*=".jd.com"]
 mydrivers.com##a[href*=".taobao.com"]
@@ -953,7 +981,8 @@ smzdm.com##.foot-banner.haojia-coupon, .hot-list-wrap, .red-btn.J_ota, .scroll-t
 smzdm.com##.module-like-wrap, .module-card-wrap, .module-title, .footer-wrap.fixed-bottom, .foot-banner
 
 !---sis001---
-sis001.com###ad_mobileFullscreen, ad_mobileHeaderSlide
+sis001.com###ad_mobileFullscreen
+sis001.com###ad_mobileHeaderSlide
 sis001.com##.overlay.active
 
 !---搜狐---
@@ -962,7 +991,9 @@ changyan.sohu.com/upload/version-v3.js
 go.sohu.com^*/?callback=
 images.sohu.com/bill/
 s.go.sohu.com*/?callback=
-sohu.com###apkBanner, apkBannerM, .advertise
+sohu.com###apkBanner
+sohu.com###apkBannerM
+sohu.com###.advertise
 sohu.com##.f:nth-of-type(8), .f:nth-of-type(10), .f:nth-of-type(21), .f:nth-of-type(22)
 sohu.com##.f_rec[href^="//m.sohu.com/promotion?"][href*="/f/"]
 sohu.com##.fade-in.show.float-app-btn, .fixed_setto_desktop, .web-clip-wrapper.web-clip-safari, .nice-img-clz, .nice-img-title
@@ -987,7 +1018,8 @@ cnmo.com/pv.js
 cnmo-img.com.cn/oddjs/
 
 !---太平洋汽车---
-pcauto.com.cn###Jmarquee, JpcTopDl
+pcauto.com.cn###Jmarquee
+pcauto.com.cn###JpcTopDl
 pcauto.com.cn##.club-app-load, .ivy_bbs_topimg.wraper, .m-guaziTg, .m-price-enter
 pcauto.com.cn##[class][style^="display:"]
 pcauto.com.cn/3g/wap*/intf/*/intf*.js?callback=tuiguang
@@ -1022,7 +1054,7 @@ v2ex.com##[class^=sidebar_]
 
 !---网易---
 163.com###docid-docAppClient
-163.com##.doc-footer-wrapper, .g-btn-open-newsapp, .home_packet.ne_rps， .a_topad
+163.com##.doc-footer-wrapper, .g-btn-open-newsapp, .home_packet.ne_rps, .a_topad
 163.com##.js-wakeupclient.wakeup_client, .loaded.js-top-slider.g-top-slider
 163.com##.m_pbpb, .m_pbpb.pbpb-item.clearfix, .wakeup_client.js-wakeupclient
 163.com##.m-slider-footer, .ne_idol_act, .ne_rps.home_packet, .papa-item
@@ -1067,7 +1099,10 @@ n.sinaimg.cn/default/b953131b/20170614/blog.png
 news.sina.cn##[class="s_card j_tianyi"]>div[class][id]
 pfp.sina.net/ea/ad/
 sax*.sina.
-sina.cn###goActivity, j_fixAppBtn, midThreeAds, pageJumpBtn
+sina.cn###goActivity
+sina.cn###j_fixAppBtn
+sina.cn###midThreeAds
+sina.cn###pageJumpBtn
 sina.cn##.j_call_native.videoDes_newsApp, .s_card_white_m.j_native, .specSlide2Wrap, .voice
 sina.cn##.j_relevent_video, .j_article_relevent_news.z_c2, .j_article_relevent.j_wbrecommend_wrap
 sina.cn##.fix_bottom, .fl_suspension_box, .app_tsview_div
