@@ -3,7 +3,7 @@
 !Homepage:https://github.com/loveqqzj/AdGuard
 !Version:2020.06.21
 !----------------------------------
-!---常用网站---
+!---其他网站---
 dama.lu##.tool-box
 ifanr.com##.article-sns-tool, .recommend-article, .popup-shown.popup-download.popup-top.popup
 suning.com##.float-b, .v5-headDown, .wtable
