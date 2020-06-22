@@ -458,6 +458,7 @@ _yad_jsonp_
 ###middleimg
 ###midThreeAds
 ###newapp2018
+###open_app
 ###pl-ad-after-comments
 ###player_zanting
 ###player-advertising
