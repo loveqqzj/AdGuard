@@ -1,3 +1,8 @@
+! Title: 视频网站广告过滤规则
+! Description: 手机视频网站广告过滤规则。
+! Version: 2020.06.22
+! Homepage: https://github.com/loveqqzj/AdGuard
+!----------------------------------
 !---爱奇艺---
 iqiyi.com###bottomNativePopup
 iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
