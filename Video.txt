@@ -53,7 +53,7 @@ tv.sohu.com##a[href^="http://mmg.aty.sohu.com/goto/http"]
 v.qq.com###banner
 v.qq.com###vip_activity
 v.qq.com###vip_privilege
-v.qq.com##._banner.btn_open_v, .btn_promotion, .mod_game_rec.mod_box, .swiper-wrapper, .swiper-wrapper.source_container
+v.qq.com##._banner.btn_open_v, .btn_promotion, .mod_game_rec.mod_box, .swiper-wrapper.source_container
 v.qq.com##[id*=game_rec]
 v.qq.com##div[_hot="banner"]
 v.qq.com##div[_hot="commentsbanner"]
