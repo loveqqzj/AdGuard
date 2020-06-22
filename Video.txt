@@ -71,3 +71,16 @@ youku.com###J_banner
 youku.com##.clipboard
 youku.com##div[id][class*="circle-wrapper"]
 youku.com##div[style^="width: 100px; height: 100px; "]
+
+!---直播类---
+huajiao.com##.banner, .follow, .open_huajiao, .tool-bar-open
+huya.com###swiper-banner
+huya.com##.banner-wrap, .chat_btn, .u-btn-down.header-app-btn, .u-btn-down.start-btn
+inke.cn##.bottom-fixed-layer, .fadeout.launch-inkeapp, .promotion
+miaopai.com##.footer
+v.6.cn##.charge, .zoro
+douyu.com##.HomeFooter-downLoadClient, .layout-ball, .see-super-definition-videos
+
+!---中国蓝TV-浙江广电---
+tv.cztv.com##.banner-bg, .lantv-yindao-btn, .zhishiqi-ul, .lantv-msg-btn, .qrcode-box, .smallbox, newCoommont
+tv.cztv.com##.swiper-container-horizontal.swiper-container3.banner
