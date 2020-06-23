@@ -7,8 +7,6 @@
 dama.lu##.tool-box
 ifanr.com##.article-sns-tool, .recommend-article, .popup-shown.popup-download.popup-top.popup
 suning.com##.float-b, .v5-headDown, .wtable
-deepl.com###lmt_quotes_article
-deepl.com###lmt_pro_ad_container
 dgtle.com##.footer-abox
 fuhaozi.com##.list_new
 gamersky.com/common/tg/
@@ -554,7 +552,9 @@ bdstatic.com/tb/cms/*%e5%ba%95%e9%83%a8
 bdstatic.com^*/mip-*ad
 bdstatic.com^*/static/itemrep/afdtujituijian/
 bdstatic.com^*/tam-ogel/
-baidu.com###afd_content, bottom
+baidu.com###popupLead
+baidu.com###afd_content
+baidu.com###bottom
 baidu.com###gh-safariicon-container
 baidu.com###header > [style="overflow: hidden;background: #fff;"]
 baidu.com###header > script + [style]
@@ -824,6 +824,10 @@ blog.csdn.net###recommend
 blog.csdn.net###first_recommend_list
 download.csdn.net##.fixed_box
 
+!---DeepL翻译---
+deepl.com###lmt_quotes_article
+deepl.com###lmt_pro_ad_container
+
 !---豆瓣---
 douban.com###topnav-openapp
 douban.com##.promo_top_banner, .download-app, .sub-vendor, .subject-banner
@@ -879,6 +883,11 @@ hupu.com##section.money-box > section.bottom > img.money-img
 huxiu.com###related-article-wrap
 huxiu.com##.fresh-article-box, .js-open-app.bgw.guide-box, .topToApp.js-guide-box.js-open-app.bgw.guide-wrap
 huxiu.com##div[class="placeholder-box"][style="height: 56px;"]
+
+!---淮水安澜---
+bbs.huainet.com###ccc
+share.huainet.com###header
+share.huainet.com##.download_area, .hot_quan.clearfix
 
 !---IT之家---
 ithome.com###bd-share-box
