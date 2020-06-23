@@ -870,7 +870,7 @@ google.com###bres
 google.com###footer
 google.com###sfooter
 google.com###fbar
-google.com##.DExtrc, .g.kno-result.rQUFld.mnr-c.g-blk, .NFQFxe.EfDVh.mod
+google.com##.DExtrc, .g.kno-result.rQUFld.mnr-c.g-blk, .NFQFxe.EfDVh.mod, fbar
 google.com/pagead/
 googleads.
 google-analytics.com/analytics.js
