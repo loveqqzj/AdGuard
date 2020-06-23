@@ -954,6 +954,9 @@ pixiv.net##ul.pixiv.tri
 pixiv.net##li.platform-pc
 pixiv.net##.premium-lead-new-t-info-home-top, ._floated-bottom-bar
 
+!---Pornhub---
+pornhub.com##.premiumAdvertWrapper, .premiumPromoBannerWrapper
+
 !---汽车之家---
 m.autohome.com.cn/news/
 autohome.com.cn###qabotLayer
