@@ -907,7 +907,7 @@ javlibrary.com##.about
 avmoo.host###movie-share
 avmoo.host##h4
 javbus.com##h4
-javbus.com##related-waterfall
+javbus.com###related-waterfall
 javbus.com##.alert, .alert-info, .alert-dismissable, .alert-common, .row.ptb30
 
 !---今日头条---
