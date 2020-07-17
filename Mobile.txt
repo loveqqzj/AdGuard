@@ -861,8 +861,8 @@ share.iclient.ifeng.com###openAppReadAll
 share.iclient.ifeng.com##.showIn.personBanner, .huaweiBanner
 
 !---福利吧---
-fulibus.net###respond
-fulibus.net##.relates.relates-thumb, .post-actions, .branding.branding-black
+fuliba2020.net###respond
+fuliba2020.net##.relates.relates-thumb, .post-actions, .branding.branding-black
 
 !---谷歌---
 google.com###belowsb
