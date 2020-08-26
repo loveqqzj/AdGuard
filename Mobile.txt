@@ -862,6 +862,7 @@ share.iclient.ifeng.com##.showIn.personBanner, .huaweiBanner
 
 !---福利吧---
 fuliba2020.net###respond
+fuliba2020.net###focusslide
 fuliba2020.net##.relates.relates-thumb, .post-actions, .branding.branding-black
 
 !---谷歌---
@@ -903,12 +904,16 @@ quan.ithome.com#@#.footer-box
 quan.ithome.com##.ft-item.tie-collect.tie-collect-gray, .ft-item.tie-share
 
 !---JAV---
-javlibrary.com##.about
 avmoo.host###movie-share
 avmoo.host##h4
 javbus.com##h4
 javbus.com###related-waterfall
+javbus.com##.col-xs-12.col-md-4.text-center.ptb10
 javbus.com##.alert, .alert-info, .alert-dismissable, .alert-common, .row.ptb30
+javlibrary.com##.about
+sis001.com###ad_mobileHeader
+!---种子网站---
+sukebei.nyaa.si##.servers-cost-money1
 
 !---今日头条---
 toutiao.com##.article_link[data-tag="ad"]
@@ -995,6 +1000,7 @@ sspai.com##.is-shown.open-in-app-button, .recommend-card
 sspai.com/api/v1/recommends?*=article_
 
 !---什么值得买---
+smzdm.com##.hot-price-layer-box
 smzdm.com##.foot-banner.haojia-coupon, .hot-list-wrap, .red-btn.J_ota, .scroll-top.has-download,.swiper-container-ios
 smzdm.com##.module-like-wrap, .module-card-wrap, .module-title, .footer-wrap.fixed-bottom, .foot-banner
 
@@ -1151,6 +1157,10 @@ iask.cn^*model.
 weibo.cn##.appTips, .footer-bar.m-btn-orange.m-btn-block.m-btn, .m-container-max.tips, .m-ctrl-box
 weibo.com##.open_dialogbanner.open.midbanner, .showed.open_dialogbanner.open.footer_banner, .swiper-wrapper
 
+!---迅雷---
+xunlei.com##.personal-center-guide
+xunlei.com##.upload-local.content-item
+
 !---Youtube---
 youtube.com###koya_child_7
 youtube.com##.mealbar-promo-renderer
@@ -1179,3 +1189,7 @@ zol.com/index.php?c=Shop_ZolShopIndex
 !---作业帮---
 zybang.com##div[class][id]
 zybang.com##div[class][style]
+
+!---其他---
+acfun.cn##.open-app-confirm
+feimaoyun.com##.vipbox
