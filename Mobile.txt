@@ -405,8 +405,8 @@ ithome.com###bd-share-box
 ithome.com###ruanmei-apps
 ithome.com##.down-app-box, .hot-app, .open-app, .open-app-banner, .relevant-news, .news-content-befor-promote, .grade, .lapin, .open-app-a
 ithome.com/api/lapin/
-quan.ithome.com#@#.footer-box
-quan.ithome.com##.ft-item.tie-collect.tie-collect-gray, .ft-item.tie-share
+ithome.com#@#.footer-box
+ithome.com##.ft-item.news-collect.news-collect-gray, .ft-item.news-share
 
 !---JAV---
 avmoo.host###movie-share
@@ -414,7 +414,6 @@ avmoo.host##h4
 javbus.com##h4
 javbus.com###related-waterfall
 javbus.com##.col-xs-12.col-md-4.text-center.ptb10
-javbus.com##.alert, .alert-info, .alert-dismissable, .alert-common, .row.ptb30
 javlibrary.com##.about
 sis001.com###ad_mobileHeader
 !---种子网站---
