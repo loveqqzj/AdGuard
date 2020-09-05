@@ -12,6 +12,23 @@ fuhaozi.com##.list_new
 gamersky.com/common/tg/
 tianya.cn##.load_m_top, .rec-app
 bing.com###BottomAppPro
+feimaoyun.com##.vipbox
+
+!---AcFun---
+acfun.cn##.open-app-confirm
+
+!---爱奇艺---
+iqiyi.com###bottomNativePopup
+iqiyi.com##.c-btn-block-lxx.c-btn-block.c-btn
+iqiyi.com##.ChannelHomeBanner_m-long-HDVideo_15nnb
+iqiyi.com##.link-app
+iqiyi.com##.list-app
+iqiyi.com##.m-wl-borderT.m-wl-entrance
+iqiyi.com##.po-fixed.m-guide
+iqiyi.com##[class="longDiversion-content"]
+iqiyi.com##a.c-btn.c-btn-block
+iqiyi.com##div.iqy-items
+iqiyi.com##div.m-ipRelation.m-ipRelation-full
 
 !---百度---
 bdstatic.com*/mip-*ad
@@ -279,6 +296,25 @@ news.baidu.com###share
 pan.baidu.com##.active-msg, .activity-icon, .box
 fanyi.baidu.com##.app-bar, .jifeng-container
 
+!---哔哩哔哩---
+bilibili.com###floatBtn
+bilibili.com###openAppBtn
+bilibili.com###relatives
+bilibili.com###relateRecomMore
+bilibili.com##.m-video2-openapp
+bilibili.com##.m-video-related
+bilibili.com##.float-bottom-bar
+bilibili.com##.bili-app-link
+bilibili.com##.index__cccBtn__M-home-topArea-
+bilibili.com##.index__cccTips__M-videoPage-player-
+bilibili.com##.index__container__src-commonComponent-bottomOpenApp-
+bilibili.com##.index__openAppBtn__M-commonComponent-topArea-
+bilibili.com##.index__openAppBtn__src-commonComponent-topArea-
+bilibili.com##.index__openBtn__M-commonComponent-openBtn-
+bilibili.com##.index__openBtn__src-commonComponent-openBtn-
+bilibili.com##.index__upBtn__M-videoPage-topArea-
+bilibili.com##.pink.f-right.basic.bili-btn
+
 !---cnbeta---
 cnbeta.com###taboola-below-article-thumbnails-m
 cnbeta.com##.cbimage-fixed
@@ -416,6 +452,16 @@ landiannews.com###respond
 landiannews.com###scroll > section.content_left:first-child > img:nth-child(2)
 landiannews.com##.topic_list, .download_list, .grid_post, .video_list, .footer, .slick_sticky, .post_like, .post_share.share, .post_declare, .tags,.prevnext
 
+!---乐视---
+le.com###j-leappMore
+le.com###j-zhoubian
+le.com###j-recommend > .animate1.column_box
+le.com##.addDesktop, .footer, .leapp_btn
+
+!---芒果TV---
+mgtv.com##.add-desktop, .ft, .on.mg-app-open
+mgtv.com##.bottom-gap.v5-area-bar > .bd
+
 !---澎湃新闻---
 thepaper.cn###carousel_banner
 thepaper.cn###head_ask_app_down
@@ -496,6 +542,10 @@ sohu.com/api/labs/hotnews/c/load?
 sohu.com/integration-api/batch/web
 sohu.com/integration-api/pure/region
 
+!---搜狐视频---
+tv.sohu.com##.actv-banner, .banner-container, .btn-comment-app, .btn-xz-app, .dl-top-banner
+tv.sohu.com##a[href^="http://mmg.aty.sohu.com/goto/http"]
+
 !---搜狗---
 /partner/gg_sogou.html
 sogou.com###indexAppOne
@@ -538,8 +588,24 @@ variety.tc.qq.com/*.mp4?
 xw.qq.com##.hairline-top
 cloud.tencent.com##.com-event-panel
 
+!---腾讯视频---
+v.qq.com###banner
+v.qq.com###vip_activity
+v.qq.com###vip_privilege
+v.qq.com###section.mod_source
+v.qq.com###section.mod_box.mod_recommend
+v.qq.com##._banner.btn_open_v, .btn_promotion, .mod_game_rec.mod_box, .swiper-wrapper.source_container, mod_app_banner
+v.qq.com##[id*=game_rec]
+v.qq.com##div[_hot="banner"]
+v.qq.com##div[_hot="commentsbanner"]
+v.qq.com##div[_hot="minisbanner"]
+
 !---腾讯QQ邮箱---
 mail.qq.com##.qm_toolbarSubTitle, .top_announce.top_announce_mobileqq
+
+!---土豆视频---
+tudou.com###topbar-slider
+tudou.com##.td-h5__appguide, .td-h5__appguide-fix, .td-h5__player__appguide
 
 !---V2ex---
 v2ex.com##.box>.inner:first-of-type
@@ -636,6 +702,15 @@ youtube.com##.mealbar-promo-renderer
 youtube.com/get_midroll_
 youtube.com/pagead/
 
+!---优酷---
+youku.com###banner
+youku.com###Bigdrama
+youku.com###FullPromotion
+youku.com###J_banner
+youku.com##.clipboard
+youku.com##div[id][class*="circle-wrapper"]
+youku.com##div[style^="width: 100px; height: 100px; "]
+
 !---知乎---
 zhihu-web-analytics.zhihu.com
 zhihu.com##.HotBanner, .Kok-mobile.Kok.Lottie, .MobileAppHeader-downloadLink
@@ -659,6 +734,15 @@ zol.com/index.php?c=Shop_ZolShopIndex
 zybang.com##div[class][id]
 zybang.com##div[class][style]
 
-!---其他---
-acfun.cn##.open-app-confirm
-feimaoyun.com##.vipbox
+!---直播类---
+huajiao.com##.banner, .follow, .open_huajiao, .tool-bar-open
+huya.com###swiper-banner
+huya.com##.banner-wrap, .chat_btn, .u-btn-down.header-app-btn, .u-btn-down.start-btn
+inke.cn##.bottom-fixed-layer, .fadeout.launch-inkeapp, .promotion
+miaopai.com##.footer
+v.6.cn##.charge, .zoro
+douyu.com##.HomeFooter-downLoadClient, .layout-ball, .see-super-definition-videos
+
+!---中国蓝TV-浙江广电---
+tv.cztv.com##.banner-bg, .lantv-yindao-btn, .zhishiqi-ul, .lantv-msg-btn, .qrcode-box, .smallbox, newCoommont
+tv.cztv.com##.swiper-container-horizontal.swiper-container3.banner
