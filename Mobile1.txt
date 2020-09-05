@@ -1,0 +1,97 @@
+! Title: 移动广告过滤补充规则
+! Description: 移动广告过滤补充规则。
+! Version: 2020.08.26
+! Homepage: https://github.com/loveqqzj/AdGuard
+!----------------------------------
+!---其他网站---
+dama.lu##.tool-box
+ifanr.com##.article-sns-tool, .recommend-article, .popup-shown.popup-download.popup-top.popup
+suning.com##.float-b, .v5-headDown, .wtable
+dgtle.com##.footer-abox
+fuhaozi.com##.list_new
+bing.com###BottomAppPro
+
+!---CSDN---
+blog.csdn.net##span.feed-Sign-span
+blog.csdn.net###operate
+blog.csdn.net###recommend
+blog.csdn.net###first_recommend_list
+download.csdn.net##.fixed_box
+
+!---DeepL翻译---
+deepl.com###lmt_quotes_article
+deepl.com###lmt_pro_ad_container
+
+!---豆瓣---
+douban.com###topnav-openapp
+douban.com##.promo_top_banner, .download-app, .sub-vendor, .subject-banner
+
+!---毒奶博客---
+limbopro.xyz###a_d_sider
+limbopro.xyz###disqus_thread
+limbopro.xyz##.grecaptcha-badge
+
+!---福利吧---
+fuliba2020.net###respond
+fuliba2020.net###focusslide
+fuliba2020.net##.relates.relates-thumb, .post-actions, .branding.branding-black
+
+!---谷歌---
+google.com###belowsb
+google.com###bres
+google.com###footer
+google.com###sfooter
+google.com###fbar
+google.com##.DExtrc, .g.kno-result.rQUFld.mnr-c.g-blk, .NFQFxe.EfDVh.mod, .fbar
+||google.com/pagead/
+||googleads.
+||google-analytics.com/analytics.js
+||google-analytics.com/ga.js
+||google-analytics.com/urchin.js
+||googlesyndication.com
+||googletagmanager.com/gtm.js
+
+!---IT之家---
+ithome.com###bd-share-box
+ithome.com###ruanmei-apps
+ithome.com##.down-app-box, .hot-app, .open-app, .open-app-banner, .relevant-news, .news-content-befor-promote, .grade, .lapin, .open-app-a
+ithome.com##.ft-item.news-collect.news-collect-gray, .ft-item.news-share
+ithome.com##.ft-item.tie-collect.tie-collect-gray, .ft-item.tie-share
+
+!---JAV---
+avmoo.host###movie-share
+avmoo.host##h4
+javbus.com##h4
+javbus.com###related-waterfall
+javbus.com##.col-xs-12.col-md-4.text-center.ptb10
+javlibrary.com##.about
+
+!---蓝点网---
+landiannews.com###respond
+landiannews.com##.topic_list, .download_list, .grid_post, .video_list, .footer, .slick_sticky, .post_like, .post_share.share, .post_declare, .tags,.prevnext
+
+!---Pixiv---
+pixiv.net##.premium-lead, .premium-lead-t-footer, .ad-frame-container
+pixiv.net##ul.pixiv.tri
+pixiv.net##li.platform-pc
+pixiv.net##.premium-lead-new-t-info-home-top, ._floated-bottom-bar
+
+!---Pornhub---
+pornhub.com##.premiumAdvertWrapper, .premiumPromoBannerWrapper
+
+!---什么值得买---
+smzdm.com##.hot-price-layer-box
+smzdm.com##.foot-banner.haojia-coupon, .hot-list-wrap, .red-btn.J_ota, .scroll-top.has-download,.swiper-container-ios
+smzdm.com##.module-like-wrap, .module-card-wrap, .module-title, .footer-wrap.fixed-bottom, .foot-banner
+
+!---sis001---
+sis001.com###ad_mobileFullscreen
+sis001.com###ad_mobileHeaderSlide
+sis001.com##.overlay.active
+sis001.com###ad_mobileHeader
+
+!---腾讯QQ邮箱---
+mail.qq.com##.qm_toolbarSubTitle, .top_announce.top_announce_mobileqq
+
+!---种子网站---
+sukebei.nyaa.si##.servers-cost-money1
