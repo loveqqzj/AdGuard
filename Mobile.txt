@@ -1218,24 +1218,16 @@ baidu.com###header > [style="overflow: hidden;background: #fff;"]
 baidu.com##div[class="c-result result"][srcid="med_invoke_box"][tpl="med_invoke_box"]
 baidu.com##div[class="gh-safari-btn-wrap2"]
 baidu.com###page-copyright
-baidu.com##.index-banner-text
-baidu.com##.suggest-hot
+baidu.com##.index-banner-text, .suggest-hot, .openall3
+baidu.com##.news-container, .banners, .page-banner, .navs-bottom-bar
 baidu.com##[class*=afd]
 baidu.com##[class=related-news]
-baidu.com##.news-container
-baidu.com##.banners
 baidu.com##[class^="openApp"]
-baidu.com##.page-banner
 baidu.com##._1k19YN3-qdVhoYpBLDMjYV
-baidu.com##.openall3
 baidu.com##article[style*="rgba(255, 0, 0, 0);display:"]
-baidu.com##.navs-bottom-bar
 baidu.com###relative_shop_flow
-baidu.com##.square-banner-bgicon.index-banner
-baidu.com##.c-container.ec-container
-baidu.com##.square-banner-icon.index-banner
+baidu.com##.square-banner-bgicon.index-banner, .square-banner-icon.index-banner, .c-container.ec-container
 baidu.com##div[class$="-result se-predestroy"]
-baidu.com##.med-invoke-box.aladdin__3qKHL.c-container
 baidu.com##div[id="page-pre"][class="se-page-pre-style"]
 baidu.com##div[class="c-recomm-wrap new-ux-recom-wrapper"]
 baidu.com##.animation.new-ux-recom-wrapper.c-recomm-wrap
@@ -1246,15 +1238,117 @@ baidu.com##div[class="c-result result"][srcid][new_srcid][order][tpl="recommend_
 baidu.com##.egg-red-envelope
 baidu.com##div[class="na-like-container"]
 baidu.com##div[class="egg-bubble"]
-www.baidu.com##.direct-new
-www.baidu.com##.gh-safariicon-container
-www.baidu.com##.med-invoke-box
-www.baidu.com##.rw-list-container2.rw-list-container > .c-line-clamp1
-www.baidu.com##.c-invoke-willshow-class.c-line-clamp1
-www.baidu.com##div.c-container:has(a[data-landurl])
+baidu.com##.med-invoke-box
+baidu.com##.rw-list-container2.rw-list-container > .c-line-clamp1
+baidu.com##.c-invoke-willshow-class.c-line-clamp1
+baidu.com##div.c-container:has(a[data-landurl])
 baidu.com##div[id="page-copyright"][class="se-page-copyright "][style="margin-bottom: 50px;"]
+baidu.com###popupLead
+baidu.com###afd_content
+baidu.com###bottom
+baidu.com###gh-safariicon-container
+baidu.com###header > script + [style]
+baidu.com###hotwordlist
+baidu.com###J-AC-starMap
+baidu.com###login-wraps, loginGuide
+baidu.com###menu-container
+baidu.com###navs
+baidu.com###ns-swipe
+baidu.com###page-ft
+baidu.com###page-relative
+baidu.com###page-tips.se-page-tips
+baidu.com###page > #index-card > script + div[style]
+baidu.com###page_wrapper > div > div[class^="_"]
+baidu.com###results-top.se-results-top.se-predestroy
+baidu.com###searchwordSdk
+baidu.com###tashuo_list
+baidu.com###theme_container
+baidu.com###userinfo-wraps
+baidu.com##.blank-frame
+baidu.com##.bottom-intro
+baidu.com##.bottomMargin
+baidu.com##.c-img-wrapper.c-gap-top-zero
+baidu.com##.c-list.sfc-baipin-search-noresult-listtop
+baidu.com##.c-recomm-wrap.new-ux-recom-wrapper
+baidu.com##.c-result.result[tpl="image_group_recommend"]
+baidu.com##.c-result.result[tpl="lego_tpl"]
+baidu.com##.c-result[tpl="app_xcx"]
+baidu.com##.c-result[tpl="xcx_multi"]
+baidu.com##.callicon-wrap
+baidu.com##.ec_ad
+baidu.com##.ec_wise_ad
+baidu.com##.first-card-container
+baidu.com##.gh-safari-btn
+baidu.com##.gh-safariicon-container
+baidu.com##.hint-toprq-tips.c-scroll-wrapper[data-dsid="0"]
+baidu.com##.his-no-rec
+baidu.com##.logined-banner
+baidu.com##.menu-area
+baidu.com##.movie-video, .movie-comment
+baidu.com##.newVersion + div
+baidu.com##.popup_mask
+baidu.com##.qtqy_container
+baidu.com##.result.c-result[tpl="wise_ios_app_open"]
+baidu.com##.se-bearicon
+baidu.com##.se-ft-promlink
+baidu.com##.se-head-logo
+baidu.com##.sf-wrap > .c-back + div[id]:last-child
+baidu.com##.sfc-baipin-comment
+baidu.com##.sfc-image-content-result-browse-looprs
+baidu.com##.sfc-real-article-recommend
+baidu.com##.square-enterance
+baidu.com##.square-tab-pop
+baidu.com##.tab-tools.show-tools
+baidu.com##.weather-outline
+baidu.com##[class^="baiduapp-"]
+baidu.com##[class^="callappbox"]
+baidu.com##[data-tpl="adv_wenku_fc"]
+baidu.com##[data-tpl="search_recomm"]
+baidu.com##[style="position: relative; width: 184.5px; height: 284px;"]
+baidu.com##[tpl="fix_ads"]
+baidu.com##a.app-bar
+baidu.com##a.index-banner
+baidu.com##a.wa-tiebastarxml-app.c-blocka[data-tc-redirect="1"]
+baidu.com##div.activity-banner
+baidu.com##div.app-guide
+baidu.com##div.c-result.result[data-log*="//baijiahao.baidu.com/s?id="]
+baidu.com##div.c-result.result[srcid^="vid_"][tpl^="vid_"]
+baidu.com##div.c-result.result[srcid="b2b_straight_wise"][tpl="b2b_straight_wise"]
+baidu.com##div.c-result.result[srcid="gm_liveshow"][tpl="gm_liveshow"]
+baidu.com##div.c-result.result[srcid="image_horizonal"][tpl="image_horizonal"]
+baidu.com##div.c-result.result[srcid="med_invoke_box"][tpl="med_invoke_box"]
+baidu.com##div.c-result.result[srcid="realtime"][tpl="realtime"]
+baidu.com##div.c-result.result[srcid="rel_ugc"][tpl="rel_ugc"]
+baidu.com##div.c-result.result[srcid="sp_kg_phone"][tpl="sp_kg_phone"]
+baidu.com##div.c-result.result[srcid="vid_pocket"][tpl="vid_pocket"]
+baidu.com##div.intro-title
+baidu.com##div.result.c-result[srcid="sd_imgs_change"][tpl="sd_imgs_change"]
+baidu.com##div.result.c-result[tpl="games"]
+baidu.com##div.result.c-result[tpl="ios_app"]
+baidu.com##div.result.c-result[tpl="recommend_list"]
+baidu.com##div.result.c-result[tpl="sd_imgs"]
+baidu.com##div.result.c-result[tpl="shengka"]
+baidu.com##div.result.c-result[tpl="sigma_celebrity_rela"]
+baidu.com##div.sfc-image-content-top-wrapper.sfc-image-content-top-nospace
+baidu.com##div[class*="*"][style="display: block;"]
+baidu.com##div[mip-custom-container]
+baidu.com##div[srcid="nvl_site"][tpl="nvl_site"]
+baidu.com##div[tpl="fc_before_fixads"]
+baidu.com##h3.s-cluster-title.c-color.wa-cl_recommend-title.c-line-bottom
+baidu.com##li.bds-list-ads
+baidu.com##p.sfc-baipin-search-noresult-com
+baidu.com##section.s_index_body
+baidu.com##section.article.hairlines
+baidu.com##.direct-new, .gh-safariicon-container
+!--------------------------百度词典----------------------------------
+dict.baidu.com###download-wrapper
+dict.baidu.com###fanyi-wrapper
+dict.baidu.com###home_footer
+dict.baidu.com##a.app-promotion-icon
+dict.baidu.com##section.c-result.c-row-tile
 !--------------------------百度小说----------------------------------
 dushu.baidu.com##.openBox-shareEntry
+baidu.book.3g.cn##.box2_bg, .mip-stats-eventload.bot_bar
 !--------------------------百度新闻----------------------------------
 news.baidu.com###share
 !--------------------------百度音乐视频----------------------------------
@@ -1267,13 +1361,13 @@ v.baidu.com##div[videoadv],a[href^="http://g.youxi.v.baidu."]
 jin.baidu.com##.grid-mt.loan-recommend
 !--------------------------百度图片----------------------------------
 ||image.baidu.com/search/aspdetail?tn=baiduaspdetail&word=
+image.baidu.com##.hotPicCard, .photographer-container, .waterfallCard
 !--------------------------百度地图----------------------------------
-map.baidu.com##.container.styleguide.index-widget-guidebanner
 map.baidu.com###index-areaEntry-widget
-map.baidu.com##.bottom-banner-float
+map.baidu.com##.bottom-banner-float, .container.styleguide.index-widget-guidebanner
 !--------------------------百度翻译----------------------------------
-fanyi.baidu.com##.app-bar
 fanyi.baidu.com##div.banner-wrap.inner
+fanyi.baidu.com##.app-bar, .jifeng-container
 ||f*.baidu.com/it/u=*,*&fm=$third-party,domain=~baijiahao.baidu.com
 !--------------------------百度百家号----------------------------------
 baijiahao.baidu.com##.bottomMargin
@@ -1282,71 +1376,77 @@ baijiahao.baidu.com##div.contentPadding.contentMedia.contentSpd
 !--------------------------百度经验----------------------------------
 jingyan.baidu.com##.wgt-ad-recommend + div[class]
 ##img[lazyload*="/jingyan.baidu.com/event/img/"]
+!--------------------------百度汉语----------------------------------
+hanyu.baidu.com###download-wrapper
+hanyu.baidu.com###fanyi-wrapper
+hanyu.baidu.com###home_footer
+hanyu.baidu.com##a.app-promotion-icon
+hanyu.baidu.com##section.c-result.c-row-tile
 !--------------------------百度网盘----------------------------------
-pan.baidu.com##.activity-icon
-pan.baidu.com##.active-msg
-pan.baidu.com##.box
 pan.baidu.com,music.baidu.com,yun.baidu.com##[class|=ad]
+pan.baidu.com##.active-msg, .activity-icon, .box
 !--------------------------百度知道----------------------------------
-zhidao.baidu.com##.header-act-entry
-zhidao.baidu.com##.left-show.new-answer-entry
-zhidao.baidu.com##.js-hot-topic.wgt-topic-hot
-zhidao.baidu.com##.feed-recommend-list
-zhidao.baidu.com##.conference-banner-all
 zhidao.baidu.com##[id^=kwlgn]
 zhidao.baidu.com##[id^=ngpwz5cff]
-zhidao.baidu.com##.show.doodle-container
 zhidao.baidu.com##div[class$="icon-bdad"]
-zhidao.baidu.com##.doodle-container
 zhidao.baidu.com###left-promotion,#ui-tooltip-0,div.cms-slide.cms-slide-optimus,div.wgt-bottom-ask,div.cms-slide.cms-slide-lazy
+zhidao.baidu.com###respect-footer
+zhidao.baidu.com###feed-recommend
+zhidao.baidu.com###wgt-related-questions-new
+zhidao.baidu.com##.ask-for-friend, .header-act-entry, .left-show.new-answer-entry, .doodle-container
+zhidao.baidu.com##.doodle-container, .show.doodle-container, .conference-banner-all, .js-hot-topic.wgt-topic-hot, .feed-recommend-list
 !--------------------------百度百科----------------------------------
+||baike.baidu.com/api/wikiad/
 wapbaike.baidu.com##ul[class][id] > li
 baike.baidu.com##div[class][id]>a[data-num][onclick^="page.Mixedor.mixedOpen"]
 baike.baidu.com##ul[class][id]>li>a[onclick^="page.Mixedor.mixedOpen"]
 baike.baidu.com###J-super-layer-promote
 baike.baidu.com###adLayerSideWrap
-baike.com##.clearfix.hd_ad_app
-baike.com##[class$=-ad]
-baike.com###right_ad_div
-||hdad.baike.com/
-||baike.baidu.com/api/wikiad/
+baike.baidu.com###J-tashuo-button-fixed
+baike.baidu.com###J-spark-icon
+baike.baidu.com##.bk-common-dialog, .BK-after-content-wrapper
+baike.baidu.com###relative_shop_flow
+baike.baidu.com###theme_container
+baike.baidu.com##[target="_blank"]
+baike.baidu.com##div[id$="_container"]
 !--------------------------百度贴吧----------------------------------
-tieba.baidu.com##.ui_image_header_bottom
+||tieba.baidu.com/mo/q/tuijianindex?uid=
+||t*.baidu.com/it/u=*,*&fm=76$third-party
 tieba.baidu.com##.img_info_introduce
 tieba.baidu.com##[class^=footer]
-tieba.baidu.com##.appPromote
-tieba.baidu.com##.appBottomPromote
-tieba.baidu.com##.top-guide-wrap.top-guide
-tieba.baidu.com##.fixed_bar_logo
 tieba.baidu.com##[class$="j_click_stats"]
-tieba.baidu.com##.panel_bottom
-tieba.baidu.com##.father-cut-recommend-normal-box
-tieba.baidu.com##.pb-footer.footer.j_footer.j_pb_footer
 tieba.baidu.com###pb_reply_postor_wrap > .daoliu-content-wrap
-tieba.baidu.com##.clearfix.top-sec
-tieba.baidu.com##.r-top-sec
 tieba.baidu.com###spage_liveshow_slide
-tieba.baidu.com##.u_member
 tieba.baidu.com###celebrity
-tieba.baidu.com##.tbui_fbar_down.tbui_aside_fbar_button
-tieba.baidu.com##.tbui_fbar_share.tbui_aside_fbar_button
-tieba.baidu.com##.tbui_fbar_feedback.tbui_aside_fbar_button
-tieba.baidu.com##.pb_bright_share.p_share_ding
-tieba.baidu.com##.celebrity.aside_region
 tieba.baidu.com###spage_game_tab_wrapper
 tieba.baidu.com###guide_fc,#global_notice_wrap,.content_top,.forum_header>div:first-child,.app_forum_top_nav,#encourage_entry,[id^=pagelet_encourage-appforum],.iframe_wrapper.clearfix,.d_sign_split~*,#thread_list>li:not([class*=thread_]),#j_p_postlist>div:not([data-field]):not(#j_p_postlist),#j_p_postlist>div[data-isautoreply],#game_live_list,#com_u9_head,.play_list_panel.j_play_list_panel,div.search_main_wrap~*,#aside_ad,a.j_click_stats.img_wrap,div.firework-wrap,ul.tbui_aside_float_bar+div.clearfix
 tieba.baidu.com###j_p_postlist>div.l_post_bright:has(a.j_click_stats.img_wrap)
-||tieba.baidu.com/mo/q/tuijianindex?uid=
-||t*.baidu.com/it/u=*,*&fm=76$third-party
+tieba.baidu.com##.appBottomPromote, .appPromote, .father-cut-recommend-normal-box, .father_cut_daoliu
+tieba.baidu.com##.celebrity.aside_region, .clearfix.top-sec, .father-cut-recommend-normal-box, .j_footer.footer
+tieba.baidu.com##.panel_bottom, .r-top-sec, .img_info_introduce, .fixed_bar_logo
+tieba.baidu.com##.pb-footer.footer.j_footer.j_pb_footer, .pb_bright_share.p_share_ding, .pb_cut_hot_recommend
+tieba.baidu.com##.tbui_fbar_down.tbui_aside_fbar_button, .tbui_fbar_feedback.tbui_aside_fbar_button, .tbui_fbar_share.tbui_aside_fbar_button
+tieba.baidu.com##.top-guide-wrap.top-guide, .u_member, .ui_image_header_bottom
+tieba.baidu.com##[class^="hongbao_"]
+tieba.baidu.com##[lgoinprompt="prompt"]
+tieba.baidu.com##a.fixed_bar
+tieba.baidu.com##li.tl_shadow.tl_shadow_new.tl_shadow_for_app
+tieba.baidu.com##li.tl_shadow.tl_shadow_new[class*="*"]
+tieba.baidu.com###pblist > li[class]:not(.j_post_list_item)
 !--------------------------百度文库----------------------------------
-wk.baidu.com###carousel
-wk.baidu.com##.wk-container.fc-btm-root
-wk.baidu.com##.wk-container.gain-doc-block-root
-wk.baidu.com##.vip-guide-contanier.guidetowkvipwg-root
-wk.baidu.com##.b-tuijian-root
-wk.baidu.com##.guidetowkappwg-root
+||wenku1.com/js/head.js
 ||as2.wenku.baidu.com/$subdocument
+wk.baidu.com###carousel
+wenku.baidu.com##.fc-wrap, .ft, .item.frist-item, .fc-btm-root, .wk-container
+wenku.baidu.com##.ad-vip-close-bottom, .ggbtm-vip-close, .b-tuijian-root, .bottom-bar-global
+wenku.baidu.com##div[class*="banner-ad"]
+wenku.baidu.com###carousel
+wenku.baidu.com##.guidetowkappwg-root, .vip-guide-contanier.guidetowkvipwg-root
+wenku.baidu.com##.wk-container.fc-btm-root, .wk-container.gain-doc-block-root
+wenku.baidu.com##a.sf-edu-wenku-id-right-fixed-ad-wrap
 !--------------------------百度其他----------------------------------
+||cpu.baidu.com/js/cic.js
+||mipengine.baidu.com/common?query=
 ||cpu.baidu.com/
 ||cm.baidu.com/
 ||crs.baidu.com/
@@ -1368,7 +1468,7 @@ wk.baidu.com##.guidetowkappwg-root
 ||mbd.baidu.com/newspage/api/getrelatednews?nid=news_
 ||nsclick.baidu.com/
 ||pos.baidu.com/
-push.zhanzhang.baidu.com/push.js
+||push.zhanzhang.baidu.com/push.js
 ||spcode.baidu.com/
 ||sp*.baidu.com*.gif?
 ||union.baidu.com/
@@ -1399,15 +1499,16 @@ push.zhanzhang.baidu.com/push.js
 ||su.bdimg.com/static/dspui/js/
 ||ecma.bdimg.com/
 ||ecmb.bdimg.com/
-##.baidu_ads_cell
-author.baidu.com##.shareEntry-blank
-author.baidu.com##.ht-container
+||bdstatic.com*/mip-*ad
+author.baidu.com##.shareEntry-blank, .ht-container
 mbd.baidu.com##div[class^="_"][style="visibility: visible;"]
+##.baidu_ads_cell
+##img[src^="https://hiphotos.baidu.com/fex/"]
 !--------------------------百度好123导航----------------------------------
 hao123.com###btn
 hao123.com##.popup
 hao123.com##[class*="cn_tips"]
-www.hao123.com##div#ecom,div.widget-topbanner,A.link.download,#shortcut-box,#shortcut-box~*,div[monkey=yixing],.siye,#leftbannerv2
+hao123.com##div#ecom,div.widget-topbanner,A.link.download,#shortcut-box,#shortcut-box~*,div[monkey=yixing],.siye,#leftbannerv2
 ||as1.m.hao123.com/
 !------------------Bing搜索--------------------
 bing.com###BottomAppPro
@@ -1618,6 +1719,11 @@ toutiao.com##div.adTab,div.carAd,#pagelet-detailadd,iframe[onload^="var adWrap"]
 ||www.toutiao.com/api/web_ads/
 ||pstatp.com^*/bannersdk/
 ||pstatp.com/growth/mobile_list/image/bonus_
+!-------------------今日头条百科--------------------
+baike.com##.clearfix.hd_ad_app
+baike.com##[class$=-ad]
+baike.com###right_ad_div
+||hdad.baike.com/
 !------------------酷我酷狗--------------------
 kuwo.cn##.downapp_btn
 kuwo.cn##.topAppWrap
