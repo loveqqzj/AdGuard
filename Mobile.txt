@@ -1677,6 +1677,7 @@ jianshu.com##.recommend-note > div > .stats-comp > div >[id]
 jianshu.com###note-fixed-ad-container
 ||jianshu.io/assets/web/*-ads-$image
 !------------------JAVA--------------------
+avmoo.host##.visible-xs-block.pt-10.text-center
 avmoo.host###movie-share
 avmoo.host##h4
 javbus.com##h4
@@ -1685,6 +1686,7 @@ javbus.com##.col-xs-12.col-md-4.text-center.ptb10
 javlibrary.com##.about
 sis001.com###ad_mobileHeader
 !---种子网站---
+cn.torrentkitty.app###note
 sukebei.nyaa.si##.servers-cost-money1
 !---Pixiv---
 pixiv.net##.premium-lead, .premium-lead-t-footer, .ad-frame-container
@@ -2139,6 +2141,7 @@ ximalaya.com##.pulse-run.free
 !-------------------迅雷--------------------
 ||xunlei.com/api/stat/rt/js?
 ||analytics-union.xunlei.com
+pan.xunlei.com##.aside-bottom__act-bar
 !------------------游民星空--------------------
 @@||www.gamersky.com/gsinc/$subdocument
 ||gamersky.com/$subdocument
