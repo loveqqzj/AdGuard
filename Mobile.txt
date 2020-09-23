@@ -936,7 +936,6 @@ _yad_jsonp_
 ##.download-app-tip
 ##.download-bar
 ##.downloadBtn
-##.download-btn
 ##.download-mini
 ##.download-normal
 ##.down-top
