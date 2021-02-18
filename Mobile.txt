@@ -1,11 +1,12 @@
 ! Title: 移动广告过滤补充规则
 ! Description: 移动广告过滤补充规则。
-! Version: 2020.09.23
+! Version: 2021.02.18
 ! Homepage: https://github.com/loveqqzj/AdGuard
 !----------------------------------
 !------------------其他--------------------
 dama.lu##.tool-box
 fuhaozi.com##.list_new
+landiannews.com###scroll > section.content_left:first-child > img:nth-child(2)
 !-------------------通用脚本元素-------------------
 &ad_ids=
 &ad_type=
@@ -1432,6 +1433,7 @@ tieba.baidu.com##a.fixed_bar
 tieba.baidu.com##li.tl_shadow.tl_shadow_new.tl_shadow_for_app
 tieba.baidu.com##li.tl_shadow.tl_shadow_new[class*="*"]
 tieba.baidu.com###pblist > li[class]:not(.j_post_list_item)
+tieba.baidu.com##li.tb-share__item:first-child
 !--------------------------百度文库----------------------------------
 ||wenku1.com/js/head.js
 ||as2.wenku.baidu.com/$subdocument
@@ -1675,7 +1677,7 @@ jianshu.com##.recommend-ad.recommend-wrap
 jianshu.com##.recommend-note > div > .stats-comp > div >[id]
 jianshu.com###note-fixed-ad-container
 ||jianshu.io/assets/web/*-ads-$image
-!------------------JAVA--------------------
+!------------------JAV--------------------
 avmoo.host##.visible-xs-block.pt-10.text-center
 avmoo.host###movie-share
 avmoo.host##h4
@@ -1692,6 +1694,7 @@ pixiv.net##.premium-lead, .premium-lead-t-footer, .ad-frame-container
 pixiv.net##ul.pixiv.tri
 pixiv.net##li.platform-pc
 pixiv.net##.premium-lead-new-t-info-home-top, ._floated-bottom-bar
+pixiv.net##.banner-ad-footer-scale, .fanbox-container
 !---Pornhub---
 pornhub.com##.premiumAdvertWrapper, .premiumPromoBannerWrapper
 !---sis001---
