@@ -1,6 +1,6 @@
 ! Title: 移动广告过滤补充规则
 ! Description: 移动广告过滤补充规则。
-! Version: 2021.02.18
+! Version: 2021.02.21
 ! Homepage: https://github.com/loveqqzj/AdGuard
 !----------------------------------
 !------------------其他--------------------
@@ -1055,7 +1055,6 @@ _yad_jsonp_
 ###db_ad
 ###div_ad
 ###download_wrap
-###download-wrapper
 ###footer_ad
 ###footerApp
 ###head_ad
@@ -1434,6 +1433,8 @@ tieba.baidu.com##li.tl_shadow.tl_shadow_new.tl_shadow_for_app
 tieba.baidu.com##li.tl_shadow.tl_shadow_new[class*="*"]
 tieba.baidu.com###pblist > li[class]:not(.j_post_list_item)
 tieba.baidu.com##li.tb-share__item:first-child
+tieba.baidu.com##.recommend-list
+tieba.baidu.com##.bottom-guide-box
 !--------------------------百度文库----------------------------------
 ||wenku1.com/js/head.js
 ||as2.wenku.baidu.com/$subdocument
@@ -1514,6 +1515,10 @@ hao123.com##div#ecom,div.widget-topbanner,A.link.download,#shortcut-box,#shortcu
 !------------------Bing搜索--------------------
 bing.com###BottomAppPro
 bing.com##li.b_ad
+!------------------哔嘀影视--------------------
+bde4.cc##div:nth-child(5) > a:last-child
+bde4.cc##div:nth-child(6) > a:last-child
+bde4.cc##div.pusher.ui.body:nth-child(3) > div.ui.container:first-child > center:nth-child(3)
 !------------------cnBeta--------------------
 cnbeta.com##div[data-role="content"] > div[style^="text-align:"]
 cnbeta.com##a[href^="http://click.aliyun.com/"]
@@ -1685,7 +1690,6 @@ javbus.com##h4
 javbus.com###related-waterfall
 javbus.com##.col-xs-12.col-md-4.text-center.ptb10
 javlibrary.com##.about
-sis001.com###ad_mobileHeader
 !---种子网站---
 cn.torrentkitty.app###note
 sukebei.nyaa.si##.servers-cost-money1
@@ -1698,9 +1702,11 @@ pixiv.net##.banner-ad-footer-scale, .fanbox-container
 !---Pornhub---
 pornhub.com##.premiumAdvertWrapper, .premiumPromoBannerWrapper
 !---sis001---
-sis001.com###ad_mobileFullscreen
+sis001.com###ad_mobileHeader
 sis001.com###ad_mobileHeaderSlide
+sis001.com###ad_mobileFullscreen
 sis001.com##.overlay.active
+sis001.com##.navbar-fixed-bottom
 !------------------脚本之家--------------------
 jb51.net##.clearfix.mtb10:first-child,div.r300>.idc3,#txtlink,div.topimg,#param.content-box+div,#xgd+dd
 ||dm.jb51.net/
