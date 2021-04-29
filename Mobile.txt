@@ -7,7 +7,6 @@
 dama.lu##.tool-box
 fuhaozi.com##.list_new
 landiannews.com###scroll > section.content_left:first-child > img:nth-child(2)
-fuliba2020.net##blockquote
 !------------------小说网站--------------------
 xbiquge.cc##.show-app2
 !-------------------通用脚本元素-------------------
@@ -1571,6 +1570,7 @@ foundertype.com##div.ad_plus_info
 fuliba2020.net###respond
 fuliba2020.net###focusslide
 fuliba2020.net##.relates.relates-thumb, .post-actions, .branding.branding-black
+fuliba2020.net##blockquote
 !------------------凤凰新闻--------------------
 @@||iis1.deliver.ifeng.com/$xmlhttprequest
 @@||ifengimg.com/ifeng/sources/inice_$script
