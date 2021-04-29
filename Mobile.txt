@@ -7,6 +7,9 @@
 dama.lu##.tool-box
 fuhaozi.com##.list_new
 landiannews.com###scroll > section.content_left:first-child > img:nth-child(2)
+fuliba2020.net##blockquote
+!------------------小说网站--------------------
+xbiquge.cc##.show-app2
 !-------------------通用脚本元素-------------------
 &ad_ids=
 &ad_type=
@@ -1339,6 +1342,8 @@ baidu.com##p.sfc-baipin-search-noresult-com
 baidu.com##section.s_index_body
 baidu.com##section.article.hairlines
 baidu.com##.direct-new, .gh-safariicon-container
+baidu.com##.bottomOperateTop
+baidu.com##.RecommendContent
 !--------------------------百度词典----------------------------------
 dict.baidu.com###download-wrapper
 dict.baidu.com###fanyi-wrapper
@@ -1435,6 +1440,7 @@ tieba.baidu.com###pblist > li[class]:not(.j_post_list_item)
 tieba.baidu.com##li.tb-share__item:first-child
 tieba.baidu.com##.recommend-list
 tieba.baidu.com##.bottom-guide-box
+tieba.baidu.com##.fixed-nav-bar.nav-bar-wrapper
 !--------------------------百度文库----------------------------------
 ||wenku1.com/js/head.js
 ||as2.wenku.baidu.com/$subdocument
@@ -1515,6 +1521,8 @@ hao123.com##div#ecom,div.widget-topbanner,A.link.download,#shortcut-box,#shortcu
 !------------------Bing搜索--------------------
 bing.com###BottomAppPro
 bing.com##li.b_ad
+bing.com###vs_cont
+bing.com###sw_as
 !------------------哔嘀影视--------------------
 bde4.cc##div:nth-child(5) > a:last-child
 bde4.cc##div:nth-child(6) > a:last-child
@@ -1670,6 +1678,7 @@ ithome.com##.ft-item.tie-collect.tie-collect-gray, .ft-item.tie-share
 ||ithome.com/api/lapin/
 ||www.ithome.com/json/hot/$subdocument
 ||ithome.com/file/js/money/
+ithome.com##.footer-box
 !-------------------京东--------------------
 ||jd.com/exsites?spread_type=
 ||u-x.jd.com
@@ -1683,9 +1692,9 @@ jianshu.com##.recommend-note > div > .stats-comp > div >[id]
 jianshu.com###note-fixed-ad-container
 ||jianshu.io/assets/web/*-ads-$image
 !------------------JAV--------------------
-avmoo.host##.visible-xs-block.pt-10.text-center
-avmoo.host###movie-share
-avmoo.host##h4
+avmoo.casa##.visible-xs-block.pt-10.text-center
+avmoo.casa###movie-share
+avmoo.casa##h4
 javbus.com##h4
 javbus.com###related-waterfall
 javbus.com##.col-xs-12.col-md-4.text-center.ptb10
@@ -1829,6 +1838,9 @@ autohome.com.cn###s2287
 ||autoimg.cn/bi/mda/ahas_body.
 !-------------------人民网--------------------
 ||pmm.people.com.cn/
+!-------------------如有乐享--------------------
+51.ruyo.net###calendar-3
+51.ruyo.net###recent-posts-4
 !------------------时光网--------------------
 mtime.cn###clientDownload
 mtime.cn###app >div >div._1QFIS
@@ -1994,6 +2006,9 @@ to8to.com##.float-zb
 to8to.com##.ad
 !-------------------Tumblr--------------------
 tumblr.com##.mobile-banner-inner
+!-------------------图标网站--------------------
+iconfinder.com###banner_upgrade_prompt
+icon-icons.com##.bsa-placeholder.fondo-blanco
 !-------------------UC视频--------------------
 tv.uc.cn###web_video_index_hot_above
 tv.uc.cn##div[class*=ucdownload]
@@ -2204,6 +2219,10 @@ yy.com###footer
 yy.com##.v-footer-tipsbox-show.v-footer-tipsbox
 yy.com##.v-player-widget-hudong
 yy.com##.v-head-show.v-head
+!-------------------异次元软件站--------------------
+iplaysoft.com###container > div.section:nth-child(3)
+iplaysoft.com##.wwads-cn.wwads-horizontal
+iplaysoft.com###container > div.section:nth-child(2)
 !-------------------战旗直播--------------------
 zhanqi.tv##.footer
 zhanqi.tv##.js-btn-open-app.footer-suspend
