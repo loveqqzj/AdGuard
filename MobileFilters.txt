@@ -7,7 +7,6 @@
 dama.lu##.tool-box
 fuhaozi.com##.list_new
 landiannews.com###scroll > section.content_left:first-child > img:nth-child(2)
-fuliba2020.net##blockquote
 !------------------小说网站--------------------
 xbiquge.cc##.show-app2
 !-------------------通用脚本元素-------------------
