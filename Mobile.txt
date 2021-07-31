@@ -1567,10 +1567,10 @@ engadget.com##.mt-20.container\@m-
 foundertype.com###guidePhoneXcxBox
 foundertype.com##div.ad_plus_info
 !-------------------福利吧--------------------
-fuliba2020.net###respond
-fuliba2020.net###focusslide
-fuliba2020.net##.relates.relates-thumb, .post-actions, .branding.branding-black
-fuliba2020.net##blockquote
+fuliba2021.net###respond
+fuliba2021.net###focusslide
+fuliba2021.net##.relates.relates-thumb, .post-actions, .branding.branding-black
+fuliba2021.net##blockquote
 !------------------凤凰新闻--------------------
 @@||iis1.deliver.ifeng.com/$xmlhttprequest
 @@||ifengimg.com/ifeng/sources/inice_$script
@@ -1699,6 +1699,10 @@ javbus.com##h4
 javbus.com###related-waterfall
 javbus.com##.col-xs-12.col-md-4.text-center.ptb10
 javlibrary.com##.about
+javdb.com##nav.app-desktop-banner
+javdb.com##.moj-content
+javdb.com##nav.sub-header
+javdb.com##.modal-button
 !---种子网站---
 cn.torrentkitty.app###note
 sukebei.nyaa.si##.servers-cost-money1
