@@ -1137,6 +1137,10 @@ limbopro.xyz###a_d_sider
 limbopro.xyz###disqus_thread
 limbopro.xyz##.grecaptcha-badge
 
+!------------------CSDN--------------------
+blog.csdn.net###recommend
+blog.csdn.net##div.weixin-shadowbox.wap-shadowbox
+
 !-------------------福利吧--------------------
 fuliba2023.net##.sidebar
 fuliba2023.net###respond
@@ -1247,6 +1251,7 @@ iplaysoft.com##.related_posts
 iplaysoft.com##.wwads-cn.wwads-horizontal
 
 !-------------------知乎--------------------
+zhihu.com##.KfeCollection-VipRecommendCard
 zhihu.com##.Kok-mobile.Kok.Lottie
 zhihu.com##.HotBanner
 zhihu.com##.MobileAppHeader-downloadLink
