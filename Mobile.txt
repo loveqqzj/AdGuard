@@ -1,6 +1,6 @@
 ! Title: 移动广告过滤补充规则
 ! Description: 移动广告过滤补充规则。
-! Version: 2021.07.31
+! Version: 2023.11.4
 ! Homepage: https://github.com/loveqqzj/AdGuard
 !-------------------通用脚本元素-------------------
 &ad_ids=
