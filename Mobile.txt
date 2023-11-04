@@ -1206,7 +1206,7 @@ pixiv.net##li.platform-pc
 pixiv.net##.premium-lead-new-t-info-home-top
 pixiv.net##._floated-bottom-bar
 pixiv.net##.banner-ad-footer-scale
-pixiv.net##..fanbox-container
+pixiv.net##.fanbox-container
 !---Pornhub---
 pornhub.com##.premiumAdvertWrapper
 pornhub.com##.premiumPromoBannerWrapper
@@ -1256,7 +1256,7 @@ zhihu.com##.Kok-mobile.Kok.Lottie
 zhihu.com##.HotBanner
 zhihu.com##.MobileAppHeader-downloadLink
 zhihu.com##div[data-za-detail-view-path-is_ad]
-zhihu.com##.Banner.Card,.shameimaru-section,.Banner-image,.Banner-image
+zhihu.com##.Banner.Card, .shameimaru-section, .Banner-image, .Banner-image
 ||zhihu.com/api/v4/alter_banners/
 ||zhihu.com/api/v4/banners/
 ||zhihu.com/commercial_api/banners_
