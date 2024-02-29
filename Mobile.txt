@@ -1181,6 +1181,53 @@ ithome.com##.ft-item.news-share
 ithome.com##.ft-item.tie-collect.tie-collect-gray
 ithome.com##.ft-item.tie-share
 ithome.com##.footer-box
+ithome.com###hd_float
+ithome.com###con > div[style="text-align:center"]
+ithome.com###hd_float1
+ithome.com###wapddfda21
+ithome.com##.bx-recom2
+ithome.com##.con-recom
+ithome.com##.con_2 > .img_listbox
+ithome.com##.down_app
+ithome.com##.indexV2 > div > a
+ithome.com##.lapin
+ithome.com##.rds
+ithome.com##.related_buy
+ithome.com##.rm-modal-bg
+ithome.com##.rm-modal-body
+ithome.com##.rm-modal1-bg
+ithome.com##.rm-modal1-body
+ithome.com##.sb_list > .bx
+ithome.com##a[href*="/lapin."]
+ithome.com##a[href*="/lapin."] + .ad
+ithome.com##a[href="/html/363216.htm"]
+ithome.com##a[href^="http://e.cn.miaozhen."]
+ithome.com##div[style^="width:960px;height:60px;"]
+ithome.com#$?#.t-b.sel > ul.nl > li:has(> a[href*="/lapin."]) { visibility: hidden !important; }
+ithome.com#?#.bl > li:has(> a[href*="/lapin."])
+ithome.com#?#.placeholder:-abp-has(> a > .plc-con > .plc-footer > .tip-gray)
+ithome.com#?#li:-abp-has(>.block a[href*="/lapin."])
+ithome.com##.AdblockBanner
+ithome.com.tw###ad-on-top
+ithome.com.tw##.ad-text-in-middle
+ithome.com.tw##.span4:nth-child(5)
+ithome.com.tw##.span4:nth-child(8)
+ithome.com.tw##div[class="span4"]
+||itadapi.ithome.com.tw^
+||ithome.com.tw/media/serve?
+||ithome.com/api/lapin/
+||ithome.com/block/headerline$subdocument
+||ithome.com/file/js/lapin-load.js
+||ithome.com/file/js/money/
+||ithome.com/file/js/win*china.js
+||ithome.com/images/1068.jpg
+||ithome.com/images/hb1212/
+||ithome.com/images/hongbao/
+||ithome.com/images/huawei.jpg
+||ithome.com/images/productgif/pcmaster.gif
+||ithome.com/images/v2.1/downsoftmaster.gif
+||ithome.com/js/lapin/hot.js
+||ithome.com/js/recommend.js
 
 !------------------JAV--------------------
 avmoo.sbs##.visible-xs-block.pt-10.text-center
