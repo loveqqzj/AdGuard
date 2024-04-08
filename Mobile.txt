@@ -5,9 +5,11 @@
 
 !------------------其他--------------------
 dama.lu##.tool-box
+bing.com###bnp_container
 
 !------------------哔嘀影视--------------------
 bdys10.com###ad-index
+bdys10.com###ad-float
 bdys10.com##div:nth-child(5) > a:last-child
 bdys10.com##div:nth-child(6) > a:last-child
 bdys10.com##div.pusher.ui.body:nth-child(3) > div.ui.container:first-child > center:nth-child(3)
@@ -25,6 +27,7 @@ fuliba2023.net##.relates-imagetext
 fuliba2023.net##.post-actions
 fuliba2023.net##.branding.branding-black
 fuliba2023.net##blockquote
+fuliba123.net##.auto-ad-url
 
 !-------------------谷歌--------------------
 google.com##.adsbygoogle
@@ -76,14 +79,22 @@ ithome.com##.AdblockBanner
 avmoo.sbs##.visible-xs-block.pt-10.text-center
 avmoo.sbs###movie-share
 avmoo.sbs##h4
+!---JavBus---
 javbus.com##h4
 javbus.com###related-waterfall
 javbus.com##.col-xs-12.col-md-4.text-center.ptb10
-javlibrary.com##.about
+!---JavDB---
 javdb.com##nav.app-desktop-banner
 javdb.com##.moj-content
 javdb.com##nav.sub-header
 javdb.com##.modal-button
+!---JavLibrary---
+javlibrary.com##.about
+javlibrary.com##.socialmedia
+javlibrary.com###middlebanner11
+javlibrary.com###topbanner11
+javlibrary.com###sidebanner11
+
 !---种子网站---
 cn.torrentkitty.app###note
 sukebei.nyaa.si##.servers-cost-money1
@@ -151,3 +162,5 @@ zhihu.com##.Banner.Card, .shameimaru-section, .Banner-image, .Banner-image
 ||zhihu.com/api/v4/banners/
 ||zhihu.com/commercial_api/banners_
 ||zhihu-web-analytics.zhihu.com/
+zhihu.com##.Card.RelatedReadings
+zhihu.com##.Card.HotQuestions
