@@ -10,9 +10,6 @@ bing.com###bnp_container
 !------------------哔嘀影视--------------------
 bdys10.com###ad-index
 bdys10.com###ad-float
-bdys10.com##div:nth-child(5) > a:last-child
-bdys10.com##div:nth-child(6) > a:last-child
-bdys10.com##div.pusher.ui.body:nth-child(3) > div.ui.container:first-child > center:nth-child(3)
 
 !------------------毒奶博客--------------------
 limbopro.xyz###a_d_sider
