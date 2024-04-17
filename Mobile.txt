@@ -8,8 +8,8 @@ dama.lu##.tool-box
 bing.com###bnp_container
 
 !------------------哔嘀影视--------------------
-bdys10.com###ad-index
-bdys10.com###ad-float
+yjys.me###ad-index
+yjys.me###ad-float
 
 !------------------毒奶博客--------------------
 limbopro.xyz###a_d_sider
