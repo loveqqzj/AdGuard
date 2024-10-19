@@ -71,7 +71,7 @@ ithome.com##.rm-modal-body
 ithome.com##.rm-modal1-bg
 ithome.com##.rm-modal1-body
 ithome.com##.AdblockBanner
-
+ithome.com##.-hongbao-conrainer.bb.t-1
 !------------------JAV--------------------
 avmoo.sbs##.visible-xs-block.pt-10.text-center
 avmoo.sbs###movie-share
