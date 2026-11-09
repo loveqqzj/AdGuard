@@ -7,6 +7,10 @@
 dama.lu##.tool-box
 bing.com###bnp_container
 
+!------------------ BT之家 --------------------
+1lou.me###advert
+1lou.xyz###advert
+
 !------------------哔嘀影视--------------------
 xlys02.com###ad-index
 xlys02.com###ad-float
